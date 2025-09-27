@@ -1,0 +1,2047 @@
+nohup: 忽略输入
+Dataset: cora
+
+# Run:0 with random seed:1
+Epoch:0 Loss:0.20794304
+Epoch:1 Loss:0.20793685
+Epoch:2 Loss:0.20792373
+Epoch:3 Loss:0.20789246
+Epoch:4 Loss:0.20781692
+Epoch:5 Loss:0.20762262
+Epoch:6 Loss:0.20721835
+Epoch:7 Loss:0.20633842
+Epoch:8 Loss:0.20501000
+Epoch:9 Loss:0.20307745
+Epoch:10 Loss:0.20045978
+Epoch:11 Loss:0.19716116
+Epoch:12 Loss:0.19389501
+Epoch:13 Loss:0.19001049
+Epoch:14 Loss:0.18547588
+Epoch:15 Loss:0.18227160
+Epoch:16 Loss:0.18079338
+Epoch:17 Loss:0.17608095
+Epoch:18 Loss:0.17289599
+Epoch:19 Loss:0.17493262
+Epoch:20 Loss:0.17129295
+Epoch:21 Loss:0.16942675
+Epoch:22 Loss:0.16674291
+Epoch:23 Loss:0.16370279
+Epoch:24 Loss:0.16149451
+Epoch:25 Loss:0.16018274
+Epoch:26 Loss:0.16192774
+Epoch:27 Loss:0.15743368
+Epoch:28 Loss:0.15970620
+Epoch:29 Loss:0.15781610
+Epoch:30 Loss:0.15462246
+Epoch:31 Loss:0.15464391
+Epoch:32 Loss:0.15396249
+Epoch:33 Loss:0.15341095
+Epoch:34 Loss:0.15081819
+Epoch:35 Loss:0.14901210
+Epoch:36 Loss:0.15107011
+Epoch:37 Loss:0.14949173
+Epoch:38 Loss:0.14761878
+Epoch:39 Loss:0.14835244
+Epoch:40 Loss:0.14895055
+Epoch:41 Loss:0.14644120
+Epoch:42 Loss:0.14345919
+Epoch:43 Loss:0.14401284
+Epoch:44 Loss:0.14604494
+Epoch:45 Loss:0.14227116
+Epoch:46 Loss:0.14321203
+Epoch:47 Loss:0.14417770
+Epoch:48 Loss:0.13801111
+Epoch:49 Loss:0.14037168
+Epoch:50 Loss:0.14005354
+Epoch:51 Loss:0.13993509
+Epoch:52 Loss:0.13957748
+Epoch:53 Loss:0.13918030
+Epoch:54 Loss:0.13554428
+Epoch:55 Loss:0.13514996
+Epoch:56 Loss:0.13903605
+Epoch:57 Loss:0.13647520
+Epoch:58 Loss:0.13518003
+Epoch:59 Loss:0.13355034
+Epoch:60 Loss:0.13506516
+Epoch:61 Loss:0.13242293
+Epoch:62 Loss:0.13140043
+Epoch:63 Loss:0.13323122
+Epoch:64 Loss:0.13172884
+Epoch:65 Loss:0.13253746
+Epoch:66 Loss:0.13015655
+Epoch:67 Loss:0.13295267
+Epoch:68 Loss:0.13048563
+Epoch:69 Loss:0.12959860
+Epoch:70 Loss:0.12723001
+Epoch:71 Loss:0.12445796
+Epoch:72 Loss:0.12422173
+Epoch:73 Loss:0.12756520
+Epoch:74 Loss:0.12688701
+Epoch:75 Loss:0.12754974
+Epoch:76 Loss:0.12564623
+Epoch:77 Loss:0.12540903
+Epoch:78 Loss:0.12569471
+Epoch:79 Loss:0.12431926
+Epoch:80 Loss:0.12341135
+Epoch:81 Loss:0.12068195
+Epoch:82 Loss:0.12263645
+Epoch:83 Loss:0.11935480
+Epoch:84 Loss:0.12254710
+Epoch:85 Loss:0.12036539
+Epoch:86 Loss:0.12146385
+Epoch:87 Loss:0.12199889
+Epoch:88 Loss:0.11909376
+Epoch:89 Loss:0.11890700
+Epoch:90 Loss:0.12017135
+Epoch:91 Loss:0.11951542
+Epoch:92 Loss:0.11864297
+Epoch:93 Loss:0.11693170
+Epoch:94 Loss:0.11618190
+Epoch:95 Loss:0.11647166
+Epoch:96 Loss:0.11651341
+Epoch:97 Loss:0.11634445
+Epoch:98 Loss:0.11813348
+Epoch:99 Loss:0.11432328
+Epoch:100 Loss:0.11352063
+Epoch:101 Loss:0.11468127
+Epoch:102 Loss:0.11458012
+Epoch:103 Loss:0.11277966
+Epoch:104 Loss:0.11204825
+Epoch:105 Loss:0.11409123
+Epoch:106 Loss:0.11207232
+Epoch:107 Loss:0.11137008
+Epoch:108 Loss:0.11171750
+Epoch:109 Loss:0.11444970
+Epoch:110 Loss:0.11180490
+Epoch:111 Loss:0.11164711
+Epoch:112 Loss:0.11113329
+Epoch:113 Loss:0.11234717
+Epoch:114 Loss:0.10927167
+Epoch:115 Loss:0.11031409
+Epoch:116 Loss:0.10742163
+Epoch:117 Loss:0.10958798
+Epoch:118 Loss:0.10955242
+Epoch:119 Loss:0.10980966
+Epoch:120 Loss:0.10902686
+Epoch:121 Loss:0.10726595
+Epoch:122 Loss:0.10366646
+Epoch:123 Loss:0.10917871
+Epoch:124 Loss:0.10529729
+Epoch:125 Loss:0.10688415
+Epoch:126 Loss:0.10397327
+Epoch:127 Loss:0.10517608
+Epoch:128 Loss:0.10570819
+Epoch:129 Loss:0.10667701
+Epoch:130 Loss:0.10609884
+Epoch:131 Loss:0.10837440
+Epoch:132 Loss:0.10662566
+Epoch:133 Loss:0.10635387
+Epoch:134 Loss:0.10582976
+Epoch:135 Loss:0.10713614
+Epoch:136 Loss:0.10619982
+Epoch:137 Loss:0.10398391
+Epoch:138 Loss:0.10407901
+Epoch:139 Loss:0.10566575
+Epoch:140 Loss:0.10342751
+Epoch:141 Loss:0.09993684
+Epoch:142 Loss:0.10387781
+Epoch:143 Loss:0.10574384
+Epoch:144 Loss:0.10296313
+Epoch:145 Loss:0.10428248
+Epoch:146 Loss:0.10463249
+Epoch:147 Loss:0.10285171
+Epoch:148 Loss:0.10211734
+Epoch:149 Loss:0.10178061
+Epoch:150 Loss:0.10474541
+Epoch:151 Loss:0.10103898
+Epoch:152 Loss:0.10143082
+Epoch:153 Loss:0.10341197
+Epoch:154 Loss:0.10012484
+Epoch:155 Loss:0.09824653
+Epoch:156 Loss:0.09907372
+Epoch:157 Loss:0.10129752
+Epoch:158 Loss:0.10339490
+Epoch:159 Loss:0.10124872
+Epoch:160 Loss:0.10204327
+Epoch:161 Loss:0.10214170
+Epoch:162 Loss:0.10282023
+Epoch:163 Loss:0.10023971
+Epoch:164 Loss:0.10073943
+Epoch:165 Loss:0.10068312
+Epoch:166 Loss:0.09992645
+Epoch:167 Loss:0.10068615
+Epoch:168 Loss:0.09725699
+Epoch:169 Loss:0.09796189
+Epoch:170 Loss:0.09993401
+Epoch:171 Loss:0.09818624
+Epoch:172 Loss:0.10187332
+Epoch:173 Loss:0.10016290
+Epoch:174 Loss:0.09693713
+Epoch:175 Loss:0.10083709
+Epoch:176 Loss:0.09896791
+Epoch:177 Loss:0.10053372
+Epoch:178 Loss:0.09816735
+Epoch:179 Loss:0.09685512
+Epoch:180 Loss:0.09714992
+Epoch:181 Loss:0.09799759
+Epoch:182 Loss:0.09648550
+Epoch:183 Loss:0.09943248
+Epoch:184 Loss:0.09714244
+Epoch:185 Loss:0.09781216
+Epoch:186 Loss:0.09919652
+Epoch:187 Loss:0.09832738
+Epoch:188 Loss:0.09541324
+Epoch:189 Loss:0.09766582
+Epoch:190 Loss:0.09779415
+Epoch:191 Loss:0.09428114
+Epoch:192 Loss:0.09546236
+Epoch:193 Loss:0.09651252
+Epoch:194 Loss:0.09147260
+Epoch:195 Loss:0.09260931
+Epoch:196 Loss:0.09750230
+Epoch:197 Loss:0.09230387
+Epoch:198 Loss:0.09726445
+Epoch:199 Loss:0.09372096
+Epoch:200 Loss:0.09747195
+Epoch:201 Loss:0.09243704
+Epoch:202 Loss:0.09191419
+Epoch:203 Loss:0.09224226
+Epoch:204 Loss:0.09365715
+Epoch:205 Loss:0.09466507
+Epoch:206 Loss:0.09502439
+Epoch:207 Loss:0.09402180
+Epoch:208 Loss:0.09409158
+Epoch:209 Loss:0.09204295
+Epoch:210 Loss:0.09208261
+Epoch:211 Loss:0.09503227
+Epoch:212 Loss:0.09291718
+Epoch:213 Loss:0.09238673
+Epoch:214 Loss:0.09306641
+Epoch:215 Loss:0.08886665
+Epoch:216 Loss:0.09214113
+Epoch:217 Loss:0.09355341
+Epoch:218 Loss:0.09162731
+Epoch:219 Loss:0.09286039
+Epoch:220 Loss:0.08929998
+Epoch:221 Loss:0.09289951
+Epoch:222 Loss:0.09038024
+Epoch:223 Loss:0.09175814
+Epoch:224 Loss:0.08959268
+Epoch:225 Loss:0.08862786
+Epoch:226 Loss:0.09232242
+Epoch:227 Loss:0.09005141
+Epoch:228 Loss:0.09249576
+Epoch:229 Loss:0.09098306
+Epoch:230 Loss:0.08896054
+Epoch:231 Loss:0.09134349
+Epoch:232 Loss:0.09404437
+Epoch:233 Loss:0.09014531
+Epoch:234 Loss:0.09057971
+Epoch:235 Loss:0.08988073
+Epoch:236 Loss:0.08950003
+Epoch:237 Loss:0.09056862
+Epoch:238 Loss:0.09135040
+Epoch:239 Loss:0.09266481
+Epoch:240 Loss:0.08842398
+Epoch:241 Loss:0.09192415
+Epoch:242 Loss:0.09106162
+Epoch:243 Loss:0.09194925
+Epoch:244 Loss:0.08783233
+Epoch:245 Loss:0.08951850
+Epoch:246 Loss:0.08532990
+Epoch:247 Loss:0.08892845
+Epoch:248 Loss:0.08830611
+Epoch:249 Loss:0.08850066
+Epoch:250 Loss:0.08733754
+Epoch:251 Loss:0.08678523
+Epoch:252 Loss:0.08983686
+Epoch:253 Loss:0.09006200
+Epoch:254 Loss:0.08881544
+Epoch:255 Loss:0.09072020
+Epoch:256 Loss:0.08877502
+Epoch:257 Loss:0.08934311
+Epoch:258 Loss:0.08660116
+Epoch:259 Loss:0.08894334
+Epoch:260 Loss:0.08641518
+Epoch:261 Loss:0.09145876
+Epoch:262 Loss:0.08823297
+Epoch:263 Loss:0.08994399
+Epoch:264 Loss:0.08776339
+Epoch:265 Loss:0.08728688
+Epoch:266 Loss:0.08602084
+Epoch:267 Loss:0.08588992
+Epoch:268 Loss:0.08768534
+Epoch:269 Loss:0.08532160
+Epoch:270 Loss:0.08741066
+Epoch:271 Loss:0.08714319
+Epoch:272 Loss:0.08927469
+Epoch:273 Loss:0.08642147
+Epoch:274 Loss:0.08923086
+Epoch:275 Loss:0.08876587
+Epoch:276 Loss:0.08605678
+Epoch:277 Loss:0.08729327
+Epoch:278 Loss:0.08950563
+Epoch:279 Loss:0.08663460
+Epoch:280 Loss:0.08699387
+Epoch:281 Loss:0.08898433
+Epoch:282 Loss:0.08638823
+Epoch:283 Loss:0.08826361
+Epoch:284 Loss:0.08439360
+Epoch:285 Loss:0.08536671
+Epoch:286 Loss:0.08608482
+Epoch:287 Loss:0.08559097
+Epoch:288 Loss:0.08648672
+Epoch:289 Loss:0.08437229
+Epoch:290 Loss:0.08916889
+Epoch:291 Loss:0.08537705
+Epoch:292 Loss:0.08641544
+Epoch:293 Loss:0.08700839
+Epoch:294 Loss:0.08534213
+Epoch:295 Loss:0.08085634
+Epoch:296 Loss:0.08027416
+Epoch:297 Loss:0.08554654
+Epoch:298 Loss:0.08663244
+Epoch:299 Loss:0.08796421
+Epoch:300 Loss:0.08501811
+Epoch:301 Loss:0.08577844
+Epoch:302 Loss:0.08599418
+Epoch:303 Loss:0.08688427
+Epoch:304 Loss:0.08107361
+Epoch:305 Loss:0.08513922
+Epoch:306 Loss:0.08408382
+Epoch:307 Loss:0.08344406
+Epoch:308 Loss:0.08376962
+Epoch:309 Loss:0.08209382
+Epoch:310 Loss:0.07936231
+Epoch:311 Loss:0.08202156
+Epoch:312 Loss:0.08193917
+Epoch:313 Loss:0.08400145
+Epoch:314 Loss:0.08493734
+Epoch:315 Loss:0.08577033
+Epoch:316 Loss:0.09029702
+Epoch:317 Loss:0.08059312
+Epoch:318 Loss:0.08349993
+Epoch:319 Loss:0.08214828
+Epoch:320 Loss:0.08301675
+Epoch:321 Loss:0.08025130
+Epoch:322 Loss:0.08100658
+Epoch:323 Loss:0.08462153
+Epoch:324 Loss:0.08525940
+Epoch:325 Loss:0.08218749
+Epoch:326 Loss:0.08458161
+Epoch:327 Loss:0.08261920
+Epoch:328 Loss:0.08365250
+Epoch:329 Loss:0.08219110
+Epoch:330 Loss:0.08307273
+Epoch:331 Loss:0.08242413
+Epoch:332 Loss:0.08103650
+Epoch:333 Loss:0.07944450
+Epoch:334 Loss:0.08233465
+Epoch:335 Loss:0.08092593
+Epoch:336 Loss:0.08250379
+Epoch:337 Loss:0.08212333
+Epoch:338 Loss:0.07958169
+Epoch:339 Loss:0.07974068
+Epoch:340 Loss:0.08050940
+Epoch:341 Loss:0.08216469
+Epoch:342 Loss:0.08012817
+Epoch:343 Loss:0.08143755
+Epoch:344 Loss:0.08196083
+Epoch:345 Loss:0.08183025
+Epoch:346 Loss:0.08110725
+Epoch:347 Loss:0.07775777
+Epoch:348 Loss:0.07938159
+Epoch:349 Loss:0.08210432
+Epoch:350 Loss:0.08001369
+Epoch:351 Loss:0.07537594
+Epoch:352 Loss:0.07981560
+Epoch:353 Loss:0.07998024
+Epoch:354 Loss:0.08234649
+Epoch:355 Loss:0.07918943
+Epoch:356 Loss:0.07679836
+Epoch:357 Loss:0.07959258
+Epoch:358 Loss:0.08417821
+Epoch:359 Loss:0.08355461
+Epoch:360 Loss:0.08157906
+Epoch:361 Loss:0.08010795
+Epoch:362 Loss:0.08287891
+Epoch:363 Loss:0.08099612
+Epoch:364 Loss:0.08148599
+Epoch:365 Loss:0.08003567
+Epoch:366 Loss:0.07981317
+Epoch:367 Loss:0.08147545
+Epoch:368 Loss:0.07863033
+Epoch:369 Loss:0.07942299
+Epoch:370 Loss:0.07827870
+Epoch:371 Loss:0.07839786
+Epoch:372 Loss:0.08388853
+Epoch:373 Loss:0.07885850
+Epoch:374 Loss:0.08098681
+Epoch:375 Loss:0.07980541
+Epoch:376 Loss:0.08066850
+Epoch:377 Loss:0.08463325
+Epoch:378 Loss:0.07750687
+Epoch:379 Loss:0.08037563
+Epoch:380 Loss:0.08094406
+Epoch:381 Loss:0.08049761
+Epoch:382 Loss:0.08128262
+Epoch:383 Loss:0.07897960
+Epoch:384 Loss:0.07722358
+Epoch:385 Loss:0.07817622
+Epoch:386 Loss:0.07783284
+Epoch:387 Loss:0.07898883
+Epoch:388 Loss:0.07954219
+Epoch:389 Loss:0.07594719
+Epoch:390 Loss:0.07618644
+Epoch:391 Loss:0.07620787
+Epoch:392 Loss:0.07540599
+Epoch:393 Loss:0.08017820
+Epoch:394 Loss:0.07624435
+Epoch:395 Loss:0.07962915
+Epoch:396 Loss:0.08358571
+Epoch:397 Loss:0.07925007
+Epoch:398 Loss:0.07667898
+Epoch:399 Loss:0.07609458
+Loading 351th epoch
+Testing AUC!
+/home/syf/subgraph-contrast/utils.py:150: RuntimeWarning: divide by zero encountered in power
+  d_inv_sqrt = np.power(rowsum, -0.5).flatten()
+  0%|          | 0/256 [00:00<?, ?it/s]Testing:   0%|          | 0/256 [00:00<?, ?it/s]Testing:   0%|          | 1/256 [00:01<04:43,  1.11s/it]Testing:   1%|          | 2/256 [00:02<04:45,  1.12s/it]Testing:   1%|          | 3/256 [00:03<04:40,  1.11s/it]Testing:   2%|▏         | 4/256 [00:04<04:43,  1.13s/it]Testing:   2%|▏         | 5/256 [00:05<04:43,  1.13s/it]Testing:   2%|▏         | 6/256 [00:06<04:40,  1.12s/it]Testing:   3%|▎         | 7/256 [00:07<04:41,  1.13s/it]Testing:   3%|▎         | 8/256 [00:08<04:35,  1.11s/it]Testing:   4%|▎         | 9/256 [00:10<04:37,  1.12s/it]Testing:   4%|▍         | 10/256 [00:11<04:34,  1.12s/it]Testing:   4%|▍         | 11/256 [00:12<04:36,  1.13s/it]Testing:   5%|▍         | 12/256 [00:13<04:34,  1.12s/it]Testing:   5%|▌         | 13/256 [00:14<04:30,  1.11s/it]Testing:   5%|▌         | 14/256 [00:15<04:30,  1.12s/it]Testing:   6%|▌         | 15/256 [00:16<04:28,  1.11s/it]Testing:   6%|▋         | 16/256 [00:17<04:28,  1.12s/it]Testing:   7%|▋         | 17/256 [00:19<04:25,  1.11s/it]Testing:   7%|▋         | 18/256 [00:20<04:26,  1.12s/it]Testing:   7%|▋         | 19/256 [00:21<04:25,  1.12s/it]Testing:   8%|▊         | 20/256 [00:22<04:22,  1.11s/it]Testing:   8%|▊         | 21/256 [00:23<04:20,  1.11s/it]Testing:   9%|▊         | 22/256 [00:24<04:15,  1.09s/it]Testing:   9%|▉         | 23/256 [00:25<04:16,  1.10s/it]Testing:   9%|▉         | 24/256 [00:26<04:15,  1.10s/it]Testing:  10%|▉         | 25/256 [00:27<04:16,  1.11s/it]Testing:  10%|█         | 26/256 [00:29<04:17,  1.12s/it]Testing:  11%|█         | 27/256 [00:30<04:13,  1.11s/it]Testing:  11%|█         | 28/256 [00:31<04:15,  1.12s/it]Testing:  11%|█▏        | 29/256 [00:32<04:13,  1.12s/it]Testing:  12%|█▏        | 30/256 [00:33<04:13,  1.12s/it]Testing:  12%|█▏        | 31/256 [00:34<04:09,  1.11s/it]Testing:  12%|█▎        | 32/256 [00:35<04:08,  1.11s/it]Testing:  13%|█▎        | 33/256 [00:36<04:09,  1.12s/it]Testing:  13%|█▎        | 34/256 [00:37<04:06,  1.11s/it]Testing:  14%|█▎        | 35/256 [00:39<04:07,  1.12s/it]Testing:  14%|█▍        | 36/256 [00:40<04:04,  1.11s/it]Testing:  14%|█▍        | 37/256 [00:41<04:04,  1.11s/it]Testing:  15%|█▍        | 38/256 [00:42<04:00,  1.10s/it]Testing:  15%|█▌        | 39/256 [00:43<04:02,  1.12s/it]Testing:  16%|█▌        | 40/256 [00:44<04:03,  1.13s/it]Testing:  16%|█▌        | 41/256 [00:45<04:00,  1.12s/it]Testing:  16%|█▋        | 42/256 [00:46<03:59,  1.12s/it]Testing:  17%|█▋        | 43/256 [00:47<03:56,  1.11s/it]Testing:  17%|█▋        | 44/256 [00:49<03:54,  1.11s/it]Testing:  18%|█▊        | 45/256 [00:50<03:51,  1.10s/it]Testing:  18%|█▊        | 46/256 [00:51<03:50,  1.10s/it]Testing:  18%|█▊        | 47/256 [00:52<03:50,  1.10s/it]Testing:  19%|█▉        | 48/256 [00:53<03:49,  1.10s/it]Testing:  19%|█▉        | 49/256 [00:54<03:51,  1.12s/it]Testing:  20%|█▉        | 50/256 [00:55<03:48,  1.11s/it]Testing:  20%|█▉        | 51/256 [00:56<03:47,  1.11s/it]Testing:  20%|██        | 52/256 [00:57<03:44,  1.10s/it]Testing:  21%|██        | 53/256 [00:59<03:46,  1.11s/it]Testing:  21%|██        | 54/256 [01:00<03:43,  1.11s/it]Testing:  21%|██▏       | 55/256 [01:01<03:40,  1.10s/it]Testing:  22%|██▏       | 56/256 [01:02<03:39,  1.10s/it]Testing:  22%|██▏       | 57/256 [01:03<03:35,  1.08s/it]Testing:  23%|██▎       | 58/256 [01:04<03:35,  1.09s/it]Testing:  23%|██▎       | 59/256 [01:05<03:33,  1.08s/it]Testing:  23%|██▎       | 60/256 [01:06<03:32,  1.09s/it]Testing:  24%|██▍       | 61/256 [01:07<03:31,  1.09s/it]Testing:  24%|██▍       | 62/256 [01:08<03:28,  1.08s/it]Testing:  25%|██▍       | 63/256 [01:09<03:29,  1.08s/it]Testing:  25%|██▌       | 64/256 [01:10<03:26,  1.08s/it]Testing:  25%|██▌       | 65/256 [01:12<03:27,  1.08s/it]Testing:  26%|██▌       | 66/256 [01:13<03:25,  1.08s/it]Testing:  26%|██▌       | 67/256 [01:14<03:26,  1.09s/it]Testing:  27%|██▋       | 68/256 [01:15<03:26,  1.10s/it]Testing:  27%|██▋       | 69/256 [01:16<03:23,  1.09s/it]Testing:  27%|██▋       | 70/256 [01:17<03:23,  1.09s/it]Testing:  28%|██▊       | 71/256 [01:18<03:20,  1.08s/it]Testing:  28%|██▊       | 72/256 [01:19<03:20,  1.09s/it]Testing:  29%|██▊       | 73/256 [01:20<03:17,  1.08s/it]Testing:  29%|██▉       | 74/256 [01:21<03:17,  1.08s/it]Testing:  29%|██▉       | 75/256 [01:22<03:17,  1.09s/it]Testing:  30%|██▉       | 76/256 [01:23<03:14,  1.08s/it]Testing:  30%|███       | 77/256 [01:25<03:15,  1.09s/it]Testing:  30%|███       | 78/256 [01:26<03:12,  1.08s/it]Testing:  31%|███       | 79/256 [01:27<03:12,  1.09s/it]Testing:  31%|███▏      | 80/256 [01:28<03:09,  1.08s/it]Testing:  32%|███▏      | 81/256 [01:29<03:09,  1.08s/it]Testing:  32%|███▏      | 82/256 [01:30<03:09,  1.09s/it]Testing:  32%|███▏      | 83/256 [01:31<03:06,  1.08s/it]Testing:  33%|███▎      | 84/256 [01:32<03:07,  1.09s/it]Testing:  33%|███▎      | 85/256 [01:33<03:05,  1.09s/it]Testing:  34%|███▎      | 86/256 [01:34<03:04,  1.08s/it]Testing:  34%|███▍      | 87/256 [01:35<03:01,  1.08s/it]Testing:  34%|███▍      | 88/256 [01:36<03:01,  1.08s/it]Testing:  35%|███▍      | 89/256 [01:38<03:01,  1.09s/it]Testing:  35%|███▌      | 90/256 [01:39<02:59,  1.08s/it]Testing:  36%|███▌      | 91/256 [01:40<02:59,  1.09s/it]Testing:  36%|███▌      | 92/256 [01:41<02:57,  1.08s/it]Testing:  36%|███▋      | 93/256 [01:42<02:56,  1.08s/it]Testing:  37%|███▋      | 94/256 [01:43<02:55,  1.08s/it]Testing:  37%|███▋      | 95/256 [01:44<02:55,  1.09s/it]Testing:  38%|███▊      | 96/256 [01:45<02:54,  1.09s/it]Testing:  38%|███▊      | 97/256 [01:46<02:52,  1.09s/it]Testing:  38%|███▊      | 98/256 [01:47<02:53,  1.10s/it]Testing:  39%|███▊      | 99/256 [01:48<02:52,  1.10s/it]Testing:  39%|███▉      | 100/256 [01:50<02:52,  1.11s/it]Testing:  39%|███▉      | 101/256 [01:51<02:51,  1.10s/it]Testing:  40%|███▉      | 102/256 [01:52<02:50,  1.11s/it]Testing:  40%|████      | 103/256 [01:53<02:51,  1.12s/it]Testing:  41%|████      | 104/256 [01:54<02:48,  1.11s/it]Testing:  41%|████      | 105/256 [01:55<02:48,  1.12s/it]Testing:  41%|████▏     | 106/256 [01:56<02:44,  1.10s/it]Testing:  42%|████▏     | 107/256 [01:57<02:45,  1.11s/it]Testing:  42%|████▏     | 108/256 [01:58<02:43,  1.10s/it]Testing:  43%|████▎     | 109/256 [02:00<02:43,  1.11s/it]Testing:  43%|████▎     | 110/256 [02:01<02:43,  1.12s/it]Testing:  43%|████▎     | 111/256 [02:02<02:41,  1.11s/it]Testing:  44%|████▍     | 112/256 [02:03<02:40,  1.12s/it]Testing:  44%|████▍     | 113/256 [02:04<02:39,  1.11s/it]Testing:  45%|████▍     | 114/256 [02:05<02:38,  1.12s/it]Testing:  45%|████▍     | 115/256 [02:06<02:35,  1.10s/it]Testing:  45%|████▌     | 116/256 [02:07<02:35,  1.11s/it]Testing:  46%|████▌     | 117/256 [02:08<02:33,  1.11s/it]Testing:  46%|████▌     | 118/256 [02:10<02:30,  1.09s/it]Testing:  46%|████▋     | 119/256 [02:11<02:30,  1.10s/it]Testing:  47%|████▋     | 120/256 [02:12<02:29,  1.10s/it]Testing:  47%|████▋     | 121/256 [02:13<02:30,  1.11s/it]Testing:  48%|████▊     | 122/256 [02:14<02:28,  1.11s/it]Testing:  48%|████▊     | 123/256 [02:15<02:28,  1.11s/it]Testing:  48%|████▊     | 124/256 [02:16<02:28,  1.12s/it]Testing:  49%|████▉     | 125/256 [02:17<02:25,  1.11s/it]Testing:  49%|████▉     | 126/256 [02:18<02:25,  1.12s/it]Testing:  50%|████▉     | 127/256 [02:20<02:22,  1.11s/it]Testing:  50%|█████     | 128/256 [02:21<02:20,  1.10s/it]Testing:  50%|█████     | 129/256 [02:22<02:18,  1.09s/it]Testing:  51%|█████     | 130/256 [02:23<02:18,  1.10s/it]Testing:  51%|█████     | 131/256 [02:24<02:18,  1.11s/it]Testing:  52%|█████▏    | 132/256 [02:25<02:16,  1.10s/it]Testing:  52%|█████▏    | 133/256 [02:26<02:17,  1.11s/it]Testing:  52%|█████▏    | 134/256 [02:27<02:14,  1.11s/it]Testing:  53%|█████▎    | 135/256 [02:28<02:14,  1.11s/it]Testing:  53%|█████▎    | 136/256 [02:29<02:12,  1.11s/it]Testing:  54%|█████▎    | 137/256 [02:31<02:12,  1.12s/it]Testing:  54%|█████▍    | 138/256 [02:32<02:13,  1.13s/it]Testing:  54%|█████▍    | 139/256 [02:33<02:10,  1.12s/it]Testing:  55%|█████▍    | 140/256 [02:34<02:10,  1.12s/it]Testing:  55%|█████▌    | 141/256 [02:35<02:08,  1.12s/it]Testing:  55%|█████▌    | 142/256 [02:36<02:08,  1.12s/it]Testing:  56%|█████▌    | 143/256 [02:37<02:06,  1.12s/it]Testing:  56%|█████▋    | 144/256 [02:38<02:05,  1.12s/it]Testing:  57%|█████▋    | 145/256 [02:40<02:05,  1.13s/it]Testing:  57%|█████▋    | 146/256 [02:41<02:02,  1.12s/it]Testing:  57%|█████▋    | 147/256 [02:42<02:02,  1.12s/it]Testing:  58%|█████▊    | 148/256 [02:43<01:59,  1.11s/it]Testing:  58%|█████▊    | 149/256 [02:44<01:59,  1.12s/it]Testing:  59%|█████▊    | 150/256 [02:45<01:57,  1.11s/it]Testing:  59%|█████▉    | 151/256 [02:46<01:57,  1.12s/it]Testing:  59%|█████▉    | 152/256 [02:47<01:56,  1.12s/it]Testing:  60%|█████▉    | 153/256 [02:49<01:54,  1.11s/it]Testing:  60%|██████    | 154/256 [02:50<01:53,  1.12s/it]Testing:  61%|██████    | 155/256 [02:51<01:51,  1.11s/it]Testing:  61%|██████    | 156/256 [02:52<01:51,  1.11s/it]Testing:  61%|██████▏   | 157/256 [02:53<01:49,  1.11s/it]Testing:  62%|██████▏   | 158/256 [02:54<01:49,  1.11s/it]Testing:  62%|██████▏   | 159/256 [02:55<01:49,  1.13s/it]Testing:  62%|██████▎   | 160/256 [02:56<01:47,  1.12s/it]Testing:  63%|██████▎   | 161/256 [02:57<01:47,  1.13s/it]Testing:  63%|██████▎   | 162/256 [02:59<01:44,  1.12s/it]Testing:  64%|██████▎   | 163/256 [03:00<01:44,  1.12s/it]Testing:  64%|██████▍   | 164/256 [03:01<01:41,  1.11s/it]Testing:  64%|██████▍   | 165/256 [03:02<01:41,  1.11s/it]Testing:  65%|██████▍   | 166/256 [03:03<01:41,  1.12s/it]Testing:  65%|██████▌   | 167/256 [03:04<01:38,  1.11s/it]Testing:  66%|██████▌   | 168/256 [03:05<01:37,  1.11s/it]Testing:  66%|██████▌   | 169/256 [03:06<01:35,  1.10s/it]Testing:  66%|██████▋   | 170/256 [03:07<01:34,  1.10s/it]Testing:  67%|██████▋   | 171/256 [03:08<01:32,  1.09s/it]Testing:  67%|██████▋   | 172/256 [03:10<01:31,  1.09s/it]Testing:  68%|██████▊   | 173/256 [03:11<01:31,  1.10s/it]Testing:  68%|██████▊   | 174/256 [03:12<01:29,  1.09s/it]Testing:  68%|██████▊   | 175/256 [03:13<01:28,  1.09s/it]Testing:  69%|██████▉   | 176/256 [03:14<01:26,  1.08s/it]Testing:  69%|██████▉   | 177/256 [03:15<01:26,  1.09s/it]Testing:  70%|██████▉   | 178/256 [03:16<01:24,  1.08s/it]Testing:  70%|██████▉   | 179/256 [03:17<01:23,  1.08s/it]Testing:  70%|███████   | 180/256 [03:18<01:22,  1.09s/it]Testing:  71%|███████   | 181/256 [03:19<01:21,  1.08s/it]Testing:  71%|███████   | 182/256 [03:20<01:20,  1.09s/it]Testing:  71%|███████▏  | 183/256 [03:22<01:18,  1.08s/it]Testing:  72%|███████▏  | 184/256 [03:23<01:18,  1.09s/it]Testing:  72%|███████▏  | 185/256 [03:24<01:16,  1.08s/it]Testing:  73%|███████▎  | 186/256 [03:25<01:16,  1.09s/it]Testing:  73%|███████▎  | 187/256 [03:26<01:16,  1.11s/it]Testing:  73%|███████▎  | 188/256 [03:27<01:14,  1.10s/it]Testing:  74%|███████▍  | 189/256 [03:28<01:13,  1.09s/it]Testing:  74%|███████▍  | 190/256 [03:29<01:11,  1.09s/it]Testing:  75%|███████▍  | 191/256 [03:30<01:11,  1.09s/it]Testing:  75%|███████▌  | 192/256 [03:31<01:09,  1.09s/it]Testing:  75%|███████▌  | 193/256 [03:32<01:09,  1.10s/it]Testing:  76%|███████▌  | 194/256 [03:34<01:08,  1.11s/it]Testing:  76%|███████▌  | 195/256 [03:35<01:07,  1.10s/it]Testing:  77%|███████▋  | 196/256 [03:36<01:06,  1.11s/it]Testing:  77%|███████▋  | 197/256 [03:37<01:05,  1.11s/it]Testing:  77%|███████▋  | 198/256 [03:38<01:05,  1.13s/it]Testing:  78%|███████▊  | 199/256 [03:39<01:03,  1.12s/it]Testing:  78%|███████▊  | 200/256 [03:40<01:02,  1.12s/it]Testing:  79%|███████▊  | 201/256 [03:41<01:01,  1.13s/it]Testing:  79%|███████▉  | 202/256 [03:43<01:00,  1.12s/it]Testing:  79%|███████▉  | 203/256 [03:44<00:59,  1.12s/it]Testing:  80%|███████▉  | 204/256 [03:45<00:57,  1.11s/it]Testing:  80%|████████  | 205/256 [03:46<00:57,  1.12s/it]Testing:  80%|████████  | 206/256 [03:47<00:55,  1.11s/it]Testing:  81%|████████  | 207/256 [03:48<00:54,  1.12s/it]Testing:  81%|████████▏ | 208/256 [03:49<00:53,  1.12s/it]Testing:  82%|████████▏ | 209/256 [03:50<00:52,  1.11s/it]Testing:  82%|████████▏ | 210/256 [03:52<00:51,  1.12s/it]Testing:  82%|████████▏ | 211/256 [03:53<00:49,  1.11s/it]Testing:  83%|████████▎ | 212/256 [03:54<00:48,  1.11s/it]Testing:  83%|████████▎ | 213/256 [03:55<00:47,  1.10s/it]Testing:  84%|████████▎ | 214/256 [03:56<00:47,  1.12s/it]Testing:  84%|████████▍ | 215/256 [03:57<00:46,  1.13s/it]Testing:  84%|████████▍ | 216/256 [03:58<00:44,  1.12s/it]Testing:  85%|████████▍ | 217/256 [03:59<00:43,  1.12s/it]Testing:  85%|████████▌ | 218/256 [04:00<00:42,  1.12s/it]Testing:  86%|████████▌ | 219/256 [04:02<00:41,  1.12s/it]Testing:  86%|████████▌ | 220/256 [04:03<00:40,  1.12s/it]Testing:  86%|████████▋ | 221/256 [04:04<00:39,  1.12s/it]Testing:  87%|████████▋ | 222/256 [04:05<00:38,  1.12s/it]Testing:  87%|████████▋ | 223/256 [04:06<00:36,  1.12s/it]Testing:  88%|████████▊ | 224/256 [04:07<00:35,  1.12s/it]Testing:  88%|████████▊ | 225/256 [04:08<00:34,  1.11s/it]Testing:  88%|████████▊ | 226/256 [04:09<00:33,  1.11s/it]Testing:  89%|████████▊ | 227/256 [04:10<00:32,  1.10s/it]Testing:  89%|████████▉ | 228/256 [04:12<00:31,  1.11s/it]Testing:  89%|████████▉ | 229/256 [04:13<00:30,  1.12s/it]Testing:  90%|████████▉ | 230/256 [04:14<00:28,  1.11s/it]Testing:  90%|█████████ | 231/256 [04:15<00:27,  1.12s/it]Testing:  91%|█████████ | 232/256 [04:16<00:26,  1.11s/it]Testing:  91%|█████████ | 233/256 [04:17<00:25,  1.12s/it]Testing:  91%|█████████▏| 234/256 [04:18<00:24,  1.10s/it]Testing:  92%|█████████▏| 235/256 [04:19<00:23,  1.11s/it]Testing:  92%|█████████▏| 236/256 [04:20<00:22,  1.11s/it]Testing:  93%|█████████▎| 237/256 [04:22<00:20,  1.10s/it]Testing:  93%|█████████▎| 238/256 [04:23<00:19,  1.11s/it]Testing:  93%|█████████▎| 239/256 [04:24<00:18,  1.10s/it]Testing:  94%|█████████▍| 240/256 [04:25<00:17,  1.11s/it]Testing:  94%|█████████▍| 241/256 [04:26<00:16,  1.11s/it]Testing:  95%|█████████▍| 242/256 [04:27<00:15,  1.12s/it]Testing:  95%|█████████▍| 243/256 [04:28<00:14,  1.12s/it]Testing:  95%|█████████▌| 244/256 [04:29<00:13,  1.11s/it]Testing:  96%|█████████▌| 245/256 [04:30<00:12,  1.11s/it]Testing:  96%|█████████▌| 246/256 [04:32<00:11,  1.11s/it]Testing:  96%|█████████▋| 247/256 [04:33<00:10,  1.11s/it]Testing:  97%|█████████▋| 248/256 [04:34<00:08,  1.12s/it]Testing:  97%|█████████▋| 249/256 [04:35<00:07,  1.13s/it]Testing:  98%|█████████▊| 250/256 [04:36<00:06,  1.14s/it]Testing:  98%|█████████▊| 251/256 [04:37<00:05,  1.13s/it]Testing:  98%|█████████▊| 252/256 [04:38<00:04,  1.13s/it]Testing:  99%|█████████▉| 253/256 [04:39<00:03,  1.13s/it]Testing:  99%|█████████▉| 254/256 [04:41<00:02,  1.14s/it]Testing: 100%|█████████▉| 255/256 [04:42<00:01,  1.12s/it]Testing: 100%|██████████| 256/256 [04:43<00:00,  1.13s/it]Testing AUC:0.8713
+Testing: 100%|██████████| 256/256 [04:43<00:00,  1.11s/it]
+# Run:1 with random seed:2
+Epoch:0 Loss:0.20794261
+Epoch:1 Loss:0.20793540
+Epoch:2 Loss:0.20791743
+Epoch:3 Loss:0.20786784
+Epoch:4 Loss:0.20773219
+Epoch:5 Loss:0.20737384
+Epoch:6 Loss:0.20658195
+Epoch:7 Loss:0.20500843
+Epoch:8 Loss:0.20196273
+Epoch:9 Loss:0.19909009
+Epoch:10 Loss:0.19450824
+Epoch:11 Loss:0.19039437
+Epoch:12 Loss:0.18670761
+Epoch:13 Loss:0.18481517
+Epoch:14 Loss:0.18480884
+Epoch:15 Loss:0.18131462
+Epoch:16 Loss:0.18190400
+Epoch:17 Loss:0.17817946
+Epoch:18 Loss:0.17993821
+Epoch:19 Loss:0.17726685
+Epoch:20 Loss:0.17542450
+Epoch:21 Loss:0.17461689
+Epoch:22 Loss:0.17449855
+Epoch:23 Loss:0.17355368
+Epoch:24 Loss:0.17030415
+Epoch:25 Loss:0.16912973
+Epoch:26 Loss:0.17091214
+Epoch:27 Loss:0.16805702
+Epoch:28 Loss:0.16693917
+Epoch:29 Loss:0.16554212
+Epoch:30 Loss:0.16587904
+Epoch:31 Loss:0.16504890
+Epoch:32 Loss:0.16511968
+Epoch:33 Loss:0.16265486
+Epoch:34 Loss:0.16359661
+Epoch:35 Loss:0.16061513
+Epoch:36 Loss:0.15852718
+Epoch:37 Loss:0.16020311
+Epoch:38 Loss:0.15761164
+Epoch:39 Loss:0.15679943
+Epoch:40 Loss:0.15799311
+Epoch:41 Loss:0.15488345
+Epoch:42 Loss:0.15723901
+Epoch:43 Loss:0.15628833
+Epoch:44 Loss:0.15511091
+Epoch:45 Loss:0.15528080
+Epoch:46 Loss:0.15346123
+Epoch:47 Loss:0.15335216
+Epoch:48 Loss:0.15305896
+Epoch:49 Loss:0.15124635
+Epoch:50 Loss:0.15268661
+Epoch:51 Loss:0.15119840
+Epoch:52 Loss:0.15007728
+Epoch:53 Loss:0.14746420
+Epoch:54 Loss:0.14662002
+Epoch:55 Loss:0.14877827
+Epoch:56 Loss:0.14490283
+Epoch:57 Loss:0.14776700
+Epoch:58 Loss:0.14727392
+Epoch:59 Loss:0.14554617
+Epoch:60 Loss:0.14559416
+Epoch:61 Loss:0.14416473
+Epoch:62 Loss:0.14448682
+Epoch:63 Loss:0.14529855
+Epoch:64 Loss:0.14339899
+Epoch:65 Loss:0.14292522
+Epoch:66 Loss:0.14356170
+Epoch:67 Loss:0.14006547
+Epoch:68 Loss:0.14051322
+Epoch:69 Loss:0.14192798
+Epoch:70 Loss:0.14031563
+Epoch:71 Loss:0.14135623
+Epoch:72 Loss:0.13950534
+Epoch:73 Loss:0.14059112
+Epoch:74 Loss:0.13965135
+Epoch:75 Loss:0.14079316
+Epoch:76 Loss:0.13846591
+Epoch:77 Loss:0.13987531
+Epoch:78 Loss:0.13775660
+Epoch:79 Loss:0.13654321
+Epoch:80 Loss:0.13527886
+Epoch:81 Loss:0.13595507
+Epoch:82 Loss:0.13683692
+Epoch:83 Loss:0.13845260
+Epoch:84 Loss:0.13634702
+Epoch:85 Loss:0.13715573
+Epoch:86 Loss:0.13369805
+Epoch:87 Loss:0.13247000
+Epoch:88 Loss:0.13383466
+Epoch:89 Loss:0.13576397
+Epoch:90 Loss:0.13203692
+Epoch:91 Loss:0.13477167
+Epoch:92 Loss:0.13325847
+Epoch:93 Loss:0.13195625
+Epoch:94 Loss:0.13169027
+Epoch:95 Loss:0.13457661
+Epoch:96 Loss:0.13419137
+Epoch:97 Loss:0.13249639
+Epoch:98 Loss:0.13078092
+Epoch:99 Loss:0.13164824
+Epoch:100 Loss:0.12981033
+Epoch:101 Loss:0.13056055
+Epoch:102 Loss:0.13171735
+Epoch:103 Loss:0.13265648
+Epoch:104 Loss:0.12597327
+Epoch:105 Loss:0.13247231
+Epoch:106 Loss:0.12698632
+Epoch:107 Loss:0.13030653
+Epoch:108 Loss:0.12854493
+Epoch:109 Loss:0.12968053
+Epoch:110 Loss:0.12685881
+Epoch:111 Loss:0.12981521
+Epoch:112 Loss:0.12815146
+Epoch:113 Loss:0.12490645
+Epoch:114 Loss:0.12299175
+Epoch:115 Loss:0.12768089
+Epoch:116 Loss:0.12697380
+Epoch:117 Loss:0.12769741
+Epoch:118 Loss:0.12345949
+Epoch:119 Loss:0.12716511
+Epoch:120 Loss:0.12719410
+Epoch:121 Loss:0.12280479
+Epoch:122 Loss:0.12137352
+Epoch:123 Loss:0.12643919
+Epoch:124 Loss:0.12545853
+Epoch:125 Loss:0.12614897
+Epoch:126 Loss:0.12303739
+Epoch:127 Loss:0.12162007
+Epoch:128 Loss:0.12161859
+Epoch:129 Loss:0.12676621
+Epoch:130 Loss:0.12081877
+Epoch:131 Loss:0.12358348
+Epoch:132 Loss:0.11974151
+Epoch:133 Loss:0.12338063
+Epoch:134 Loss:0.12064877
+Epoch:135 Loss:0.12044444
+Epoch:136 Loss:0.12252115
+Epoch:137 Loss:0.11989109
+Epoch:138 Loss:0.12555727
+Epoch:139 Loss:0.12378648
+Epoch:140 Loss:0.12093465
+Epoch:141 Loss:0.12050293
+Epoch:142 Loss:0.11921231
+Epoch:143 Loss:0.12280744
+Epoch:144 Loss:0.12230131
+Epoch:145 Loss:0.12136818
+Epoch:146 Loss:0.11766792
+Epoch:147 Loss:0.11923015
+Epoch:148 Loss:0.11737077
+Epoch:149 Loss:0.11902868
+Epoch:150 Loss:0.11909792
+Epoch:151 Loss:0.11400631
+Epoch:152 Loss:0.11860394
+Epoch:153 Loss:0.11744602
+Epoch:154 Loss:0.11786446
+Epoch:155 Loss:0.11731097
+Epoch:156 Loss:0.11815957
+Epoch:157 Loss:0.11868573
+Epoch:158 Loss:0.11799494
+Epoch:159 Loss:0.11694610
+Epoch:160 Loss:0.11701354
+Epoch:161 Loss:0.11487113
+Epoch:162 Loss:0.11623989
+Epoch:163 Loss:0.11462223
+Epoch:164 Loss:0.11726988
+Epoch:165 Loss:0.11658346
+Epoch:166 Loss:0.11615466
+Epoch:167 Loss:0.11758396
+Epoch:168 Loss:0.11771407
+Epoch:169 Loss:0.11681632
+Epoch:170 Loss:0.11462451
+Epoch:171 Loss:0.11165038
+Epoch:172 Loss:0.11128198
+Epoch:173 Loss:0.11494757
+Epoch:174 Loss:0.11216705
+Epoch:175 Loss:0.11482195
+Epoch:176 Loss:0.11476927
+Epoch:177 Loss:0.11451167
+Epoch:178 Loss:0.11327102
+Epoch:179 Loss:0.11361140
+Epoch:180 Loss:0.11451936
+Epoch:181 Loss:0.11373258
+Epoch:182 Loss:0.11045086
+Epoch:183 Loss:0.11472796
+Epoch:184 Loss:0.11177075
+Epoch:185 Loss:0.11119090
+Epoch:186 Loss:0.11338522
+Epoch:187 Loss:0.10958389
+Epoch:188 Loss:0.11000596
+Epoch:189 Loss:0.11262273
+Epoch:190 Loss:0.10974178
+Epoch:191 Loss:0.11047596
+Epoch:192 Loss:0.10905017
+Epoch:193 Loss:0.11144310
+Epoch:194 Loss:0.10888854
+Epoch:195 Loss:0.11192535
+Epoch:196 Loss:0.10848343
+Epoch:197 Loss:0.11086047
+Epoch:198 Loss:0.11064929
+Epoch:199 Loss:0.10907037
+Epoch:200 Loss:0.11003977
+Epoch:201 Loss:0.11282446
+Epoch:202 Loss:0.11013137
+Epoch:203 Loss:0.10740177
+Epoch:204 Loss:0.11282741
+Epoch:205 Loss:0.10836741
+Epoch:206 Loss:0.10874268
+Epoch:207 Loss:0.10926281
+Epoch:208 Loss:0.11071845
+Epoch:209 Loss:0.10812188
+Epoch:210 Loss:0.11042674
+Epoch:211 Loss:0.10888821
+Epoch:212 Loss:0.11035562
+Epoch:213 Loss:0.10739313
+Epoch:214 Loss:0.10636717
+Epoch:215 Loss:0.10611795
+Epoch:216 Loss:0.10616414
+Epoch:217 Loss:0.10895675
+Epoch:218 Loss:0.10809934
+Epoch:219 Loss:0.10554349
+Epoch:220 Loss:0.10750594
+Epoch:221 Loss:0.10749188
+Epoch:222 Loss:0.10676334
+Epoch:223 Loss:0.10759110
+Epoch:224 Loss:0.11082607
+Epoch:225 Loss:0.10851184
+Epoch:226 Loss:0.10797456
+Epoch:227 Loss:0.10342859
+Epoch:228 Loss:0.10599686
+Epoch:229 Loss:0.10579954
+Epoch:230 Loss:0.10561772
+Epoch:231 Loss:0.10610171
+Epoch:232 Loss:0.10456830
+Epoch:233 Loss:0.10638753
+Epoch:234 Loss:0.10546749
+Epoch:235 Loss:0.10554036
+Epoch:236 Loss:0.10434740
+Epoch:237 Loss:0.10360124
+Epoch:238 Loss:0.10583086
+Epoch:239 Loss:0.10454637
+Epoch:240 Loss:0.10365267
+Epoch:241 Loss:0.10458285
+Epoch:242 Loss:0.10454130
+Epoch:243 Loss:0.10397314
+Epoch:244 Loss:0.10116538
+Epoch:245 Loss:0.10231160
+Epoch:246 Loss:0.10373779
+Epoch:247 Loss:0.10003548
+Epoch:248 Loss:0.10308975
+Epoch:249 Loss:0.10230043
+Epoch:250 Loss:0.10370152
+Epoch:251 Loss:0.10125757
+Epoch:252 Loss:0.10220979
+Epoch:253 Loss:0.10235398
+Epoch:254 Loss:0.10500039
+Epoch:255 Loss:0.10261124
+Epoch:256 Loss:0.10025419
+Epoch:257 Loss:0.10224935
+Epoch:258 Loss:0.10031067
+Epoch:259 Loss:0.10152802
+Epoch:260 Loss:0.10181796
+Epoch:261 Loss:0.10415591
+Epoch:262 Loss:0.10132648
+Epoch:263 Loss:0.10160169
+Epoch:264 Loss:0.10285131
+Epoch:265 Loss:0.10256356
+Epoch:266 Loss:0.10423003
+Epoch:267 Loss:0.09681098
+Epoch:268 Loss:0.09816229
+Epoch:269 Loss:0.10214925
+Epoch:270 Loss:0.09973567
+Epoch:271 Loss:0.10023765
+Epoch:272 Loss:0.10105827
+Epoch:273 Loss:0.10128579
+Epoch:274 Loss:0.10086061
+Epoch:275 Loss:0.10167813
+Epoch:276 Loss:0.10273062
+Epoch:277 Loss:0.09877808
+Epoch:278 Loss:0.09950079
+Epoch:279 Loss:0.09888491
+Epoch:280 Loss:0.09913148
+Epoch:281 Loss:0.10087530
+Epoch:282 Loss:0.10354032
+Epoch:283 Loss:0.09768556
+Epoch:284 Loss:0.10120415
+Epoch:285 Loss:0.09952010
+Epoch:286 Loss:0.09897292
+Epoch:287 Loss:0.10085562
+Epoch:288 Loss:0.09803770
+Epoch:289 Loss:0.09966453
+Epoch:290 Loss:0.10009464
+Epoch:291 Loss:0.10011773
+Epoch:292 Loss:0.09909409
+Epoch:293 Loss:0.09878397
+Epoch:294 Loss:0.09784597
+Epoch:295 Loss:0.09712440
+Epoch:296 Loss:0.09803726
+Epoch:297 Loss:0.09532252
+Epoch:298 Loss:0.09899237
+Epoch:299 Loss:0.09618503
+Epoch:300 Loss:0.09719743
+Epoch:301 Loss:0.09535186
+Epoch:302 Loss:0.09974962
+Epoch:303 Loss:0.09717533
+Epoch:304 Loss:0.09650828
+Epoch:305 Loss:0.09848137
+Epoch:306 Loss:0.09804541
+Epoch:307 Loss:0.09594986
+Epoch:308 Loss:0.09536062
+Epoch:309 Loss:0.09504248
+Epoch:310 Loss:0.09485094
+Epoch:311 Loss:0.09235647
+Epoch:312 Loss:0.09811934
+Epoch:313 Loss:0.09713967
+Epoch:314 Loss:0.09527534
+Epoch:315 Loss:0.09550203
+Epoch:316 Loss:0.09601704
+Epoch:317 Loss:0.09256691
+Epoch:318 Loss:0.09530224
+Epoch:319 Loss:0.09467620
+Epoch:320 Loss:0.09455817
+Epoch:321 Loss:0.09260441
+Epoch:322 Loss:0.09749129
+Epoch:323 Loss:0.09247468
+Epoch:324 Loss:0.09768352
+Epoch:325 Loss:0.09713357
+Epoch:326 Loss:0.09515291
+Epoch:327 Loss:0.09355110
+Epoch:328 Loss:0.09438428
+Epoch:329 Loss:0.09137716
+Epoch:330 Loss:0.09494764
+Epoch:331 Loss:0.09553487
+Epoch:332 Loss:0.09193180
+Epoch:333 Loss:0.09382547
+Epoch:334 Loss:0.09478580
+Epoch:335 Loss:0.09337263
+Epoch:336 Loss:0.09215583
+Epoch:337 Loss:0.09132856
+Epoch:338 Loss:0.09279391
+Epoch:339 Loss:0.09029026
+Epoch:340 Loss:0.09080398
+Epoch:341 Loss:0.09057010
+Epoch:342 Loss:0.09075295
+Epoch:343 Loss:0.09302288
+Epoch:344 Loss:0.09547243
+Epoch:345 Loss:0.09353596
+Epoch:346 Loss:0.09770021
+Epoch:347 Loss:0.09103019
+Epoch:348 Loss:0.09386428
+Epoch:349 Loss:0.08926788
+Epoch:350 Loss:0.09017610
+Epoch:351 Loss:0.09130531
+Epoch:352 Loss:0.09158438
+Epoch:353 Loss:0.09095817
+Epoch:354 Loss:0.09492384
+Epoch:355 Loss:0.08990042
+Epoch:356 Loss:0.09007204
+Epoch:357 Loss:0.09066960
+Epoch:358 Loss:0.08995019
+Epoch:359 Loss:0.09127562
+Epoch:360 Loss:0.09040608
+Epoch:361 Loss:0.08951647
+Epoch:362 Loss:0.09523893
+Epoch:363 Loss:0.09225939
+Epoch:364 Loss:0.08829735
+Epoch:365 Loss:0.09041897
+Epoch:366 Loss:0.08823674
+Epoch:367 Loss:0.09073044
+Epoch:368 Loss:0.08721793
+Epoch:369 Loss:0.09200021
+Epoch:370 Loss:0.08694102
+Epoch:371 Loss:0.08963807
+Epoch:372 Loss:0.08898655
+Epoch:373 Loss:0.09321766
+Epoch:374 Loss:0.08893576
+Epoch:375 Loss:0.08983049
+Epoch:376 Loss:0.08763320
+Epoch:377 Loss:0.08714155
+Epoch:378 Loss:0.08842403
+Epoch:379 Loss:0.08878848
+Epoch:380 Loss:0.08918849
+Epoch:381 Loss:0.09012182
+Epoch:382 Loss:0.08961754
+Epoch:383 Loss:0.08878701
+Epoch:384 Loss:0.08961033
+Epoch:385 Loss:0.08939858
+Epoch:386 Loss:0.09186160
+Epoch:387 Loss:0.08385317
+Epoch:388 Loss:0.08777463
+Epoch:389 Loss:0.08588889
+Epoch:390 Loss:0.08531284
+Epoch:391 Loss:0.08754673
+Epoch:392 Loss:0.08648378
+Epoch:393 Loss:0.08348501
+Epoch:394 Loss:0.08503036
+Epoch:395 Loss:0.08622947
+Epoch:396 Loss:0.08897734
+Epoch:397 Loss:0.08922397
+Epoch:398 Loss:0.09096121
+Epoch:399 Loss:0.08584243
+Loading 393th epoch
+Testing AUC!
+
+/home/syf/subgraph-contrast/utils.py:150: RuntimeWarning: divide by zero encountered in power
+  d_inv_sqrt = np.power(rowsum, -0.5).flatten()
+  0%|          | 0/256 [00:00<?, ?it/s]Testing:   0%|          | 0/256 [00:00<?, ?it/s]Testing:   0%|          | 1/256 [00:01<04:34,  1.08s/it]Testing:   1%|          | 2/256 [00:02<04:38,  1.10s/it]Testing:   1%|          | 3/256 [00:03<04:34,  1.08s/it]Testing:   2%|▏         | 4/256 [00:04<04:36,  1.10s/it]Testing:   2%|▏         | 5/256 [00:05<04:37,  1.10s/it]Testing:   2%|▏         | 6/256 [00:06<04:35,  1.10s/it]Testing:   3%|▎         | 7/256 [00:07<04:35,  1.11s/it]Testing:   3%|▎         | 8/256 [00:08<04:31,  1.09s/it]Testing:   4%|▎         | 9/256 [00:09<04:30,  1.10s/it]Testing:   4%|▍         | 10/256 [00:10<04:27,  1.09s/it]Testing:   4%|▍         | 11/256 [00:12<04:27,  1.09s/it]Testing:   5%|▍         | 12/256 [00:13<04:26,  1.09s/it]Testing:   5%|▌         | 13/256 [00:14<04:23,  1.08s/it]Testing:   5%|▌         | 14/256 [00:15<04:24,  1.09s/it]Testing:   6%|▌         | 15/256 [00:16<04:20,  1.08s/it]Testing:   6%|▋         | 16/256 [00:17<04:21,  1.09s/it]Testing:   7%|▋         | 17/256 [00:18<04:18,  1.08s/it]Testing:   7%|▋         | 18/256 [00:19<04:17,  1.08s/it]Testing:   7%|▋         | 19/256 [00:20<04:17,  1.09s/it]Testing:   8%|▊         | 20/256 [00:21<04:14,  1.08s/it]Testing:   8%|▊         | 21/256 [00:22<04:17,  1.10s/it]Testing:   9%|▊         | 22/256 [00:24<04:16,  1.10s/it]Testing:   9%|▉         | 23/256 [00:25<04:18,  1.11s/it]Testing:   9%|▉         | 24/256 [00:26<04:17,  1.11s/it]Testing:  10%|▉         | 25/256 [00:27<04:17,  1.12s/it]Testing:  10%|█         | 26/256 [00:28<04:17,  1.12s/it]Testing:  11%|█         | 27/256 [00:29<04:14,  1.11s/it]Testing:  11%|█         | 28/256 [00:30<04:15,  1.12s/it]Testing:  11%|█▏        | 29/256 [00:31<04:12,  1.11s/it]Testing:  12%|█▏        | 30/256 [00:32<04:13,  1.12s/it]Testing:  12%|█▏        | 31/256 [00:34<04:10,  1.11s/it]Testing:  12%|█▎        | 32/256 [00:35<04:11,  1.12s/it]Testing:  13%|█▎        | 33/256 [00:36<04:12,  1.13s/it]Testing:  13%|█▎        | 34/256 [00:37<04:08,  1.12s/it]Testing:  14%|█▎        | 35/256 [00:38<04:07,  1.12s/it]Testing:  14%|█▍        | 36/256 [00:39<04:02,  1.10s/it]Testing:  14%|█▍        | 37/256 [00:40<04:02,  1.11s/it]Testing:  15%|█▍        | 38/256 [00:41<03:58,  1.10s/it]Testing:  15%|█▌        | 39/256 [00:42<03:57,  1.09s/it]Testing:  16%|█▌        | 40/256 [00:44<03:58,  1.11s/it]Testing:  16%|█▌        | 41/256 [00:45<03:58,  1.11s/it]Testing:  16%|█▋        | 42/256 [00:46<04:00,  1.12s/it]Testing:  17%|█▋        | 43/256 [00:47<03:57,  1.12s/it]Testing:  17%|█▋        | 44/256 [00:48<03:57,  1.12s/it]Testing:  18%|█▊        | 45/256 [00:49<03:55,  1.12s/it]Testing:  18%|█▊        | 46/256 [00:50<03:55,  1.12s/it]Testing:  18%|█▊        | 47/256 [00:51<03:53,  1.12s/it]Testing:  19%|█▉        | 48/256 [00:52<03:49,  1.10s/it]Testing:  19%|█▉        | 49/256 [00:54<03:48,  1.10s/it]Testing:  20%|█▉        | 50/256 [00:55<03:45,  1.10s/it]Testing:  20%|█▉        | 51/256 [00:56<03:47,  1.11s/it]Testing:  20%|██        | 52/256 [00:57<03:45,  1.10s/it]Testing:  21%|██        | 53/256 [00:58<03:46,  1.11s/it]Testing:  21%|██        | 54/256 [00:59<03:46,  1.12s/it]Testing:  21%|██▏       | 55/256 [01:00<03:43,  1.11s/it]Testing:  22%|██▏       | 56/256 [01:01<03:43,  1.12s/it]Testing:  22%|██▏       | 57/256 [01:02<03:40,  1.11s/it]Testing:  23%|██▎       | 58/256 [01:04<03:41,  1.12s/it]Testing:  23%|██▎       | 59/256 [01:05<03:38,  1.11s/it]Testing:  23%|██▎       | 60/256 [01:06<03:39,  1.12s/it]Testing:  24%|██▍       | 61/256 [01:07<03:37,  1.12s/it]Testing:  24%|██▍       | 62/256 [01:08<03:34,  1.10s/it]Testing:  25%|██▍       | 63/256 [01:09<03:33,  1.10s/it]Testing:  25%|██▌       | 64/256 [01:10<03:28,  1.09s/it]Testing:  25%|██▌       | 65/256 [01:11<03:27,  1.09s/it]Testing:  26%|██▌       | 66/256 [01:12<03:25,  1.08s/it]Testing:  26%|██▌       | 67/256 [01:13<03:24,  1.08s/it]Testing:  27%|██▋       | 68/256 [01:15<03:26,  1.10s/it]Testing:  27%|██▋       | 69/256 [01:16<03:25,  1.10s/it]Testing:  27%|██▋       | 70/256 [01:17<03:26,  1.11s/it]Testing:  28%|██▊       | 71/256 [01:18<03:23,  1.10s/it]Testing:  28%|██▊       | 72/256 [01:19<03:23,  1.11s/it]Testing:  29%|██▊       | 73/256 [01:20<03:22,  1.11s/it]Testing:  29%|██▉       | 74/256 [01:21<03:22,  1.11s/it]Testing:  29%|██▉       | 75/256 [01:22<03:22,  1.12s/it]Testing:  30%|██▉       | 76/256 [01:23<03:20,  1.11s/it]Testing:  30%|███       | 77/256 [01:25<03:18,  1.11s/it]Testing:  30%|███       | 78/256 [01:26<03:15,  1.10s/it]Testing:  31%|███       | 79/256 [01:27<03:14,  1.10s/it]Testing:  31%|███▏      | 80/256 [01:28<03:12,  1.09s/it]Testing:  32%|███▏      | 81/256 [01:29<03:12,  1.10s/it]Testing:  32%|███▏      | 82/256 [01:30<03:13,  1.11s/it]Testing:  32%|███▏      | 83/256 [01:31<03:11,  1.10s/it]Testing:  33%|███▎      | 84/256 [01:32<03:12,  1.12s/it]Testing:  33%|███▎      | 85/256 [01:33<03:09,  1.11s/it]Testing:  34%|███▎      | 86/256 [01:35<03:09,  1.12s/it]Testing:  34%|███▍      | 87/256 [01:36<03:07,  1.11s/it]Testing:  34%|███▍      | 88/256 [01:37<03:07,  1.12s/it]Testing:  35%|███▍      | 89/256 [01:38<03:07,  1.12s/it]Testing:  35%|███▌      | 90/256 [01:39<03:02,  1.10s/it]Testing:  36%|███▌      | 91/256 [01:40<03:02,  1.10s/it]Testing:  36%|███▌      | 92/256 [01:41<02:59,  1.09s/it]Testing:  36%|███▋      | 93/256 [01:42<02:58,  1.10s/it]Testing:  37%|███▋      | 94/256 [01:43<02:55,  1.09s/it]Testing:  37%|███▋      | 95/256 [01:44<02:55,  1.09s/it]Testing:  38%|███▊      | 96/256 [01:46<02:55,  1.10s/it]Testing:  38%|███▊      | 97/256 [01:47<02:53,  1.09s/it]Testing:  38%|███▊      | 98/256 [01:48<02:53,  1.10s/it]Testing:  39%|███▊      | 99/256 [01:49<02:51,  1.09s/it]Testing:  39%|███▉      | 100/256 [01:50<02:50,  1.09s/it]Testing:  39%|███▉      | 101/256 [01:51<02:47,  1.08s/it]Testing:  40%|███▉      | 102/256 [01:52<02:47,  1.08s/it]Testing:  40%|████      | 103/256 [01:53<02:45,  1.08s/it]Testing:  41%|████      | 104/256 [01:54<02:47,  1.10s/it]Testing:  41%|████      | 105/256 [01:55<02:50,  1.13s/it]Testing:  41%|████▏     | 106/256 [01:57<02:50,  1.14s/it]Testing:  42%|████▏     | 107/256 [01:58<02:50,  1.14s/it]Testing:  42%|████▏     | 108/256 [01:59<02:47,  1.13s/it]Testing:  43%|████▎     | 109/256 [02:00<02:45,  1.12s/it]Testing:  43%|████▎     | 110/256 [02:01<02:46,  1.14s/it]Testing:  43%|████▎     | 111/256 [02:02<02:44,  1.13s/it]Testing:  44%|████▍     | 112/256 [02:03<02:44,  1.14s/it]Testing:  44%|████▍     | 113/256 [02:05<02:42,  1.14s/it]Testing:  45%|████▍     | 114/256 [02:06<02:41,  1.14s/it]Testing:  45%|████▍     | 115/256 [02:07<02:38,  1.12s/it]Testing:  45%|████▌     | 116/256 [02:08<02:38,  1.13s/it]Testing:  46%|████▌     | 117/256 [02:09<02:37,  1.13s/it]Testing:  46%|████▌     | 118/256 [02:10<02:35,  1.13s/it]Testing:  46%|████▋     | 119/256 [02:11<02:36,  1.14s/it]Testing:  47%|████▋     | 120/256 [02:12<02:34,  1.14s/it]Testing:  47%|████▋     | 121/256 [02:14<02:33,  1.14s/it]Testing:  48%|████▊     | 122/256 [02:15<02:33,  1.15s/it]Testing:  48%|████▊     | 123/256 [02:16<02:33,  1.15s/it]Testing:  48%|████▊     | 124/256 [02:17<02:32,  1.15s/it]Testing:  49%|████▉     | 125/256 [02:18<02:29,  1.14s/it]Testing:  49%|████▉     | 126/256 [02:19<02:29,  1.15s/it]Testing:  50%|████▉     | 127/256 [02:21<02:27,  1.14s/it]Testing:  50%|█████     | 128/256 [02:22<02:25,  1.14s/it]Testing:  50%|█████     | 129/256 [02:23<02:23,  1.13s/it]Testing:  51%|█████     | 130/256 [02:24<02:23,  1.14s/it]Testing:  51%|█████     | 131/256 [02:25<02:22,  1.14s/it]Testing:  52%|█████▏    | 132/256 [02:26<02:20,  1.13s/it]Testing:  52%|█████▏    | 133/256 [02:27<02:19,  1.13s/it]Testing:  52%|█████▏    | 134/256 [02:28<02:16,  1.12s/it]Testing:  53%|█████▎    | 135/256 [02:30<02:16,  1.13s/it]Testing:  53%|█████▎    | 136/256 [02:31<02:15,  1.13s/it]Testing:  54%|█████▎    | 137/256 [02:32<02:15,  1.14s/it]Testing:  54%|█████▍    | 138/256 [02:33<02:14,  1.14s/it]Testing:  54%|█████▍    | 139/256 [02:34<02:12,  1.13s/it]Testing:  55%|█████▍    | 140/256 [02:35<02:11,  1.13s/it]Testing:  55%|█████▌    | 141/256 [02:36<02:10,  1.13s/it]Testing:  55%|█████▌    | 142/256 [02:38<02:10,  1.14s/it]Testing:  56%|█████▌    | 143/256 [02:39<02:07,  1.13s/it]Testing:  56%|█████▋    | 144/256 [02:40<02:06,  1.13s/it]Testing:  57%|█████▋    | 145/256 [02:41<02:05,  1.13s/it]Testing:  57%|█████▋    | 146/256 [02:42<02:03,  1.12s/it]Testing:  57%|█████▋    | 147/256 [02:43<02:03,  1.13s/it]Testing:  58%|█████▊    | 148/256 [02:44<02:01,  1.12s/it]Testing:  58%|█████▊    | 149/256 [02:45<01:59,  1.11s/it]Testing:  59%|█████▊    | 150/256 [02:46<01:57,  1.11s/it]Testing:  59%|█████▉    | 151/256 [02:48<01:57,  1.12s/it]Testing:  59%|█████▉    | 152/256 [02:49<01:57,  1.13s/it]Testing:  60%|█████▉    | 153/256 [02:50<01:54,  1.11s/it]Testing:  60%|██████    | 154/256 [02:51<01:54,  1.12s/it]Testing:  61%|██████    | 155/256 [02:52<01:51,  1.11s/it]Testing:  61%|██████    | 156/256 [02:53<01:50,  1.11s/it]Testing:  61%|██████▏   | 157/256 [02:54<01:49,  1.10s/it]Testing:  62%|██████▏   | 158/256 [02:55<01:48,  1.11s/it]Testing:  62%|██████▏   | 159/256 [02:56<01:47,  1.11s/it]Testing:  62%|██████▎   | 160/256 [02:58<01:45,  1.09s/it]Testing:  63%|██████▎   | 161/256 [02:59<01:44,  1.10s/it]Testing:  63%|██████▎   | 162/256 [03:00<01:42,  1.09s/it]Testing:  64%|██████▎   | 163/256 [03:01<01:42,  1.10s/it]Testing:  64%|██████▍   | 164/256 [03:02<01:40,  1.09s/it]Testing:  64%|██████▍   | 165/256 [03:03<01:39,  1.10s/it]Testing:  65%|██████▍   | 166/256 [03:04<01:39,  1.10s/it]Testing:  65%|██████▌   | 167/256 [03:05<01:37,  1.09s/it]Testing:  66%|██████▌   | 168/256 [03:06<01:36,  1.09s/it]Testing:  66%|██████▌   | 169/256 [03:07<01:34,  1.09s/it]Testing:  66%|██████▋   | 170/256 [03:08<01:33,  1.09s/it]Testing:  67%|██████▋   | 171/256 [03:10<01:32,  1.09s/it]Testing:  67%|██████▋   | 172/256 [03:11<01:31,  1.09s/it]Testing:  68%|██████▊   | 173/256 [03:12<01:30,  1.10s/it]Testing:  68%|██████▊   | 174/256 [03:13<01:29,  1.09s/it]Testing:  68%|██████▊   | 175/256 [03:14<01:28,  1.09s/it]Testing:  69%|██████▉   | 176/256 [03:15<01:27,  1.09s/it]Testing:  69%|██████▉   | 177/256 [03:16<01:26,  1.09s/it]Testing:  70%|██████▉   | 178/256 [03:17<01:24,  1.08s/it]Testing:  70%|██████▉   | 179/256 [03:18<01:24,  1.09s/it]Testing:  70%|███████   | 180/256 [03:19<01:23,  1.10s/it]Testing:  71%|███████   | 181/256 [03:20<01:21,  1.09s/it]Testing:  71%|███████   | 182/256 [03:22<01:21,  1.10s/it]Testing:  71%|███████▏  | 183/256 [03:23<01:19,  1.09s/it]Testing:  72%|███████▏  | 184/256 [03:24<01:18,  1.09s/it]Testing:  72%|███████▏  | 185/256 [03:25<01:16,  1.08s/it]Testing:  73%|███████▎  | 186/256 [03:26<01:16,  1.09s/it]Testing:  73%|███████▎  | 187/256 [03:27<01:15,  1.09s/it]Testing:  73%|███████▎  | 188/256 [03:28<01:13,  1.08s/it]Testing:  74%|███████▍  | 189/256 [03:29<01:13,  1.09s/it]Testing:  74%|███████▍  | 190/256 [03:30<01:11,  1.08s/it]Testing:  75%|███████▍  | 191/256 [03:31<01:10,  1.09s/it]Testing:  75%|███████▌  | 192/256 [03:32<01:09,  1.08s/it]Testing:  75%|███████▌  | 193/256 [03:34<01:08,  1.09s/it]Testing:  76%|███████▌  | 194/256 [03:35<01:07,  1.09s/it]Testing:  76%|███████▌  | 195/256 [03:36<01:06,  1.09s/it]Testing:  77%|███████▋  | 196/256 [03:37<01:05,  1.10s/it]Testing:  77%|███████▋  | 197/256 [03:38<01:04,  1.09s/it]Testing:  77%|███████▋  | 198/256 [03:39<01:03,  1.10s/it]Testing:  78%|███████▊  | 199/256 [03:40<01:02,  1.09s/it]Testing:  78%|███████▊  | 200/256 [03:41<01:01,  1.10s/it]Testing:  79%|███████▊  | 201/256 [03:42<01:00,  1.10s/it]Testing:  79%|███████▉  | 202/256 [03:43<00:59,  1.09s/it]Testing:  79%|███████▉  | 203/256 [03:44<00:58,  1.10s/it]Testing:  80%|███████▉  | 204/256 [03:46<00:56,  1.10s/it]Testing:  80%|████████  | 205/256 [03:47<00:56,  1.10s/it]Testing:  80%|████████  | 206/256 [03:48<00:54,  1.09s/it]Testing:  81%|████████  | 207/256 [03:49<00:53,  1.10s/it]Testing:  81%|████████▏ | 208/256 [03:50<00:53,  1.10s/it]Testing:  82%|████████▏ | 209/256 [03:51<00:51,  1.09s/it]Testing:  82%|████████▏ | 210/256 [03:52<00:50,  1.10s/it]Testing:  82%|████████▏ | 211/256 [03:53<00:48,  1.09s/it]Testing:  83%|████████▎ | 212/256 [03:54<00:48,  1.09s/it]Testing:  83%|████████▎ | 213/256 [03:55<00:46,  1.08s/it]Testing:  84%|████████▎ | 214/256 [03:56<00:45,  1.09s/it]Testing:  84%|████████▍ | 215/256 [03:58<00:44,  1.10s/it]Testing:  84%|████████▍ | 216/256 [03:59<00:43,  1.09s/it]Testing:  85%|████████▍ | 217/256 [04:00<00:42,  1.10s/it]Testing:  85%|████████▌ | 218/256 [04:01<00:41,  1.08s/it]Testing:  86%|████████▌ | 219/256 [04:02<00:40,  1.09s/it]Testing:  86%|████████▌ | 220/256 [04:03<00:38,  1.08s/it]Testing:  86%|████████▋ | 221/256 [04:04<00:38,  1.09s/it]Testing:  87%|████████▋ | 222/256 [04:05<00:37,  1.10s/it]Testing:  87%|████████▋ | 223/256 [04:06<00:35,  1.09s/it]Testing:  88%|████████▊ | 224/256 [04:07<00:35,  1.10s/it]Testing:  88%|████████▊ | 225/256 [04:08<00:33,  1.09s/it]Testing:  88%|████████▊ | 226/256 [04:10<00:32,  1.09s/it]Testing:  89%|████████▊ | 227/256 [04:11<00:31,  1.09s/it]Testing:  89%|████████▉ | 228/256 [04:12<00:30,  1.10s/it]Testing:  89%|████████▉ | 229/256 [04:13<00:29,  1.10s/it]Testing:  90%|████████▉ | 230/256 [04:14<00:28,  1.09s/it]Testing:  90%|█████████ | 231/256 [04:15<00:27,  1.10s/it]Testing:  91%|█████████ | 232/256 [04:16<00:26,  1.09s/it]Testing:  91%|█████████ | 233/256 [04:17<00:25,  1.10s/it]Testing:  91%|█████████▏| 234/256 [04:18<00:23,  1.09s/it]Testing:  92%|█████████▏| 235/256 [04:19<00:23,  1.10s/it]Testing:  92%|█████████▏| 236/256 [04:21<00:22,  1.11s/it]Testing:  93%|█████████▎| 237/256 [04:22<00:20,  1.10s/it]Testing:  93%|█████████▎| 238/256 [04:23<00:19,  1.10s/it]Testing:  93%|█████████▎| 239/256 [04:24<00:18,  1.10s/it]Testing:  94%|█████████▍| 240/256 [04:25<00:17,  1.10s/it]Testing:  94%|█████████▍| 241/256 [04:26<00:16,  1.09s/it]Testing:  95%|█████████▍| 242/256 [04:27<00:15,  1.09s/it]Testing:  95%|█████████▍| 243/256 [04:28<00:14,  1.10s/it]Testing:  95%|█████████▌| 244/256 [04:29<00:13,  1.09s/it]Testing:  96%|█████████▌| 245/256 [04:30<00:12,  1.10s/it]Testing:  96%|█████████▌| 246/256 [04:31<00:10,  1.09s/it]Testing:  96%|█████████▋| 247/256 [04:33<00:09,  1.09s/it]Testing:  97%|█████████▋| 248/256 [04:34<00:08,  1.09s/it]Testing:  97%|█████████▋| 249/256 [04:35<00:07,  1.10s/it]Testing:  98%|█████████▊| 250/256 [04:36<00:06,  1.11s/it]Testing:  98%|█████████▊| 251/256 [04:37<00:05,  1.10s/it]Testing:  98%|█████████▊| 252/256 [04:38<00:04,  1.11s/it]Testing:  99%|█████████▉| 253/256 [04:39<00:03,  1.10s/it]Testing:  99%|█████████▉| 254/256 [04:40<00:02,  1.11s/it]Testing: 100%|█████████▉| 255/256 [04:41<00:01,  1.11s/it]Testing: 100%|██████████| 256/256 [04:43<00:00,  1.11s/it]Testing AUC:0.8784
+Testing: 100%|██████████| 256/256 [04:43<00:00,  1.11s/it]
+# Run:2 with random seed:3
+Epoch:0 Loss:0.20794271
+Epoch:1 Loss:0.20793663
+Epoch:2 Loss:0.20792385
+Epoch:3 Loss:0.20789652
+Epoch:4 Loss:0.20782244
+Epoch:5 Loss:0.20764849
+Epoch:6 Loss:0.20724485
+Epoch:7 Loss:0.20639723
+Epoch:8 Loss:0.20485586
+Epoch:9 Loss:0.20237301
+Epoch:10 Loss:0.19917323
+Epoch:11 Loss:0.19475985
+Epoch:12 Loss:0.19099714
+Epoch:13 Loss:0.18815579
+Epoch:14 Loss:0.18449688
+Epoch:15 Loss:0.18061720
+Epoch:16 Loss:0.17982085
+Epoch:17 Loss:0.17480774
+Epoch:18 Loss:0.17465910
+Epoch:19 Loss:0.17168442
+Epoch:20 Loss:0.16900301
+Epoch:21 Loss:0.16935920
+Epoch:22 Loss:0.16647451
+Epoch:23 Loss:0.16758458
+Epoch:24 Loss:0.16428295
+Epoch:25 Loss:0.16145163
+Epoch:26 Loss:0.16163341
+Epoch:27 Loss:0.15925196
+Epoch:28 Loss:0.15805468
+Epoch:29 Loss:0.15653603
+Epoch:30 Loss:0.15322838
+Epoch:31 Loss:0.15442328
+Epoch:32 Loss:0.15322339
+Epoch:33 Loss:0.14994260
+Epoch:34 Loss:0.15437886
+Epoch:35 Loss:0.15057558
+Epoch:36 Loss:0.15066650
+Epoch:37 Loss:0.15019507
+Epoch:38 Loss:0.15095403
+Epoch:39 Loss:0.14938898
+Epoch:40 Loss:0.14857153
+Epoch:41 Loss:0.14552271
+Epoch:42 Loss:0.14488871
+Epoch:43 Loss:0.14240268
+Epoch:44 Loss:0.14411687
+Epoch:45 Loss:0.14149104
+Epoch:46 Loss:0.14447690
+Epoch:47 Loss:0.14097394
+Epoch:48 Loss:0.14256093
+Epoch:49 Loss:0.14097035
+Epoch:50 Loss:0.14075131
+Epoch:51 Loss:0.13865103
+Epoch:52 Loss:0.13791231
+Epoch:53 Loss:0.13697593
+Epoch:54 Loss:0.14040734
+Epoch:55 Loss:0.13982265
+Epoch:56 Loss:0.13688112
+Epoch:57 Loss:0.13877675
+Epoch:58 Loss:0.13747819
+Epoch:59 Loss:0.13766312
+Epoch:60 Loss:0.13353400
+Epoch:61 Loss:0.13575843
+Epoch:62 Loss:0.13185003
+Epoch:63 Loss:0.13240050
+Epoch:64 Loss:0.13610305
+Epoch:65 Loss:0.13542473
+Epoch:66 Loss:0.13210160
+Epoch:67 Loss:0.13135249
+Epoch:68 Loss:0.13171550
+Epoch:69 Loss:0.12908638
+Epoch:70 Loss:0.13268819
+Epoch:71 Loss:0.12915533
+Epoch:72 Loss:0.12585662
+Epoch:73 Loss:0.12900729
+Epoch:74 Loss:0.12885295
+Epoch:75 Loss:0.12597214
+Epoch:76 Loss:0.12474113
+Epoch:77 Loss:0.12664052
+Epoch:78 Loss:0.12399837
+Epoch:79 Loss:0.12459247
+Epoch:80 Loss:0.12358693
+Epoch:81 Loss:0.12498244
+Epoch:82 Loss:0.12472639
+Epoch:83 Loss:0.12340928
+Epoch:84 Loss:0.12193019
+Epoch:85 Loss:0.12305339
+Epoch:86 Loss:0.12280318
+Epoch:87 Loss:0.11988877
+Epoch:88 Loss:0.12268688
+Epoch:89 Loss:0.12070828
+Epoch:90 Loss:0.12042487
+Epoch:91 Loss:0.11951821
+Epoch:92 Loss:0.11906929
+Epoch:93 Loss:0.11761229
+Epoch:94 Loss:0.11908109
+Epoch:95 Loss:0.11877661
+Epoch:96 Loss:0.11691851
+Epoch:97 Loss:0.11540976
+Epoch:98 Loss:0.11738698
+Epoch:99 Loss:0.11629452
+Epoch:100 Loss:0.11487577
+Epoch:101 Loss:0.11564761
+Epoch:102 Loss:0.11319238
+Epoch:103 Loss:0.11469494
+Epoch:104 Loss:0.11495860
+Epoch:105 Loss:0.11476553
+Epoch:106 Loss:0.11281617
+Epoch:107 Loss:0.11108677
+Epoch:108 Loss:0.11471509
+Epoch:109 Loss:0.11263660
+Epoch:110 Loss:0.11513202
+Epoch:111 Loss:0.11118466
+Epoch:112 Loss:0.11318044
+Epoch:113 Loss:0.11117816
+Epoch:114 Loss:0.10853859
+Epoch:115 Loss:0.10863502
+Epoch:116 Loss:0.10913481
+Epoch:117 Loss:0.10847540
+Epoch:118 Loss:0.11188041
+Epoch:119 Loss:0.10876322
+Epoch:120 Loss:0.10945283
+Epoch:121 Loss:0.10965119
+Epoch:122 Loss:0.10878873
+Epoch:123 Loss:0.10679988
+Epoch:124 Loss:0.10588935
+Epoch:125 Loss:0.11031613
+Epoch:126 Loss:0.10759023
+Epoch:127 Loss:0.10978663
+Epoch:128 Loss:0.10576899
+Epoch:129 Loss:0.10736684
+Epoch:130 Loss:0.10790805
+Epoch:131 Loss:0.10913460
+Epoch:132 Loss:0.10843895
+Epoch:133 Loss:0.10874088
+Epoch:134 Loss:0.10230619
+Epoch:135 Loss:0.10436728
+Epoch:136 Loss:0.10359300
+Epoch:137 Loss:0.10230194
+Epoch:138 Loss:0.10451011
+Epoch:139 Loss:0.10607630
+Epoch:140 Loss:0.10480759
+Epoch:141 Loss:0.10725773
+Epoch:142 Loss:0.10361951
+Epoch:143 Loss:0.10817338
+Epoch:144 Loss:0.10453289
+Epoch:145 Loss:0.10471490
+Epoch:146 Loss:0.10427231
+Epoch:147 Loss:0.10153211
+Epoch:148 Loss:0.10295336
+Epoch:149 Loss:0.10245379
+Epoch:150 Loss:0.10504156
+Epoch:151 Loss:0.10145563
+Epoch:152 Loss:0.10335065
+Epoch:153 Loss:0.09957731
+Epoch:154 Loss:0.10353556
+Epoch:155 Loss:0.10164757
+Epoch:156 Loss:0.10500747
+Epoch:157 Loss:0.10089557
+Epoch:158 Loss:0.10325530
+Epoch:159 Loss:0.10123043
+Epoch:160 Loss:0.10030328
+Epoch:161 Loss:0.10479114
+Epoch:162 Loss:0.10185425
+Epoch:163 Loss:0.10187600
+Epoch:164 Loss:0.09755585
+Epoch:165 Loss:0.10035401
+Epoch:166 Loss:0.09996818
+Epoch:167 Loss:0.09901355
+Epoch:168 Loss:0.09961032
+Epoch:169 Loss:0.10026849
+Epoch:170 Loss:0.09877301
+Epoch:171 Loss:0.10019931
+Epoch:172 Loss:0.10104192
+Epoch:173 Loss:0.10014268
+Epoch:174 Loss:0.09784085
+Epoch:175 Loss:0.09860253
+Epoch:176 Loss:0.09889245
+Epoch:177 Loss:0.10206458
+Epoch:178 Loss:0.09686174
+Epoch:179 Loss:0.09632493
+Epoch:180 Loss:0.09799443
+Epoch:181 Loss:0.09985064
+Epoch:182 Loss:0.09631886
+Epoch:183 Loss:0.10018695
+Epoch:184 Loss:0.10001860
+Epoch:185 Loss:0.09723490
+Epoch:186 Loss:0.09821852
+Epoch:187 Loss:0.09567072
+Epoch:188 Loss:0.09715025
+Epoch:189 Loss:0.09446044
+Epoch:190 Loss:0.09848366
+Epoch:191 Loss:0.09731028
+Epoch:192 Loss:0.09533560
+Epoch:193 Loss:0.09157937
+Epoch:194 Loss:0.09215656
+Epoch:195 Loss:0.09601860
+Epoch:196 Loss:0.09564459
+Epoch:197 Loss:0.09670296
+Epoch:198 Loss:0.09693146
+Epoch:199 Loss:0.10030603
+Epoch:200 Loss:0.09578091
+Epoch:201 Loss:0.09554168
+Epoch:202 Loss:0.09613848
+Epoch:203 Loss:0.09528456
+Epoch:204 Loss:0.09739844
+Epoch:205 Loss:0.09637724
+Epoch:206 Loss:0.09519982
+Epoch:207 Loss:0.09277926
+Epoch:208 Loss:0.09759466
+Epoch:209 Loss:0.09495597
+Epoch:210 Loss:0.09708583
+Epoch:211 Loss:0.09531740
+Epoch:212 Loss:0.09521515
+Epoch:213 Loss:0.09243846
+Epoch:214 Loss:0.09195516
+Epoch:215 Loss:0.09386409
+Epoch:216 Loss:0.09399566
+Epoch:217 Loss:0.09167074
+Epoch:218 Loss:0.09025611
+Epoch:219 Loss:0.09298347
+Epoch:220 Loss:0.09057906
+Epoch:221 Loss:0.09303966
+Epoch:222 Loss:0.09321383
+Epoch:223 Loss:0.09566460
+Epoch:224 Loss:0.09085802
+Epoch:225 Loss:0.09417482
+Epoch:226 Loss:0.09134431
+Epoch:227 Loss:0.09231584
+Epoch:228 Loss:0.09208789
+Epoch:229 Loss:0.09277728
+Epoch:230 Loss:0.09339807
+Epoch:231 Loss:0.08835904
+Epoch:232 Loss:0.09090497
+Epoch:233 Loss:0.09211169
+Epoch:234 Loss:0.09446562
+Epoch:235 Loss:0.08923692
+Epoch:236 Loss:0.09222578
+Epoch:237 Loss:0.09055275
+Epoch:238 Loss:0.09048176
+Epoch:239 Loss:0.09368399
+Epoch:240 Loss:0.09082770
+Epoch:241 Loss:0.09210547
+Epoch:242 Loss:0.09053051
+Epoch:243 Loss:0.09046356
+Epoch:244 Loss:0.08940054
+Epoch:245 Loss:0.08976138
+Epoch:246 Loss:0.08953727
+Epoch:247 Loss:0.09113871
+Epoch:248 Loss:0.09189434
+Epoch:249 Loss:0.09107960
+Epoch:250 Loss:0.08830114
+Epoch:251 Loss:0.08947654
+Epoch:252 Loss:0.08699257
+Epoch:253 Loss:0.08541412
+Epoch:254 Loss:0.08800194
+Epoch:255 Loss:0.08783802
+Epoch:256 Loss:0.08981150
+Epoch:257 Loss:0.09221456
+Epoch:258 Loss:0.08896932
+Epoch:259 Loss:0.08803871
+Epoch:260 Loss:0.08935210
+Epoch:261 Loss:0.09025150
+Epoch:262 Loss:0.08879422
+Epoch:263 Loss:0.08577209
+Epoch:264 Loss:0.08600911
+Epoch:265 Loss:0.08983706
+Epoch:266 Loss:0.08788944
+Epoch:267 Loss:0.08894135
+Epoch:268 Loss:0.08884068
+Epoch:269 Loss:0.08623514
+Epoch:270 Loss:0.08687166
+Epoch:271 Loss:0.08985777
+Epoch:272 Loss:0.08346115
+Epoch:273 Loss:0.08600175
+Epoch:274 Loss:0.08620088
+Epoch:275 Loss:0.08542921
+Epoch:276 Loss:0.08615929
+Epoch:277 Loss:0.08638990
+Epoch:278 Loss:0.08515097
+Epoch:279 Loss:0.08290098
+Epoch:280 Loss:0.08844468
+Epoch:281 Loss:0.08759219
+Epoch:282 Loss:0.08804540
+Epoch:283 Loss:0.08575371
+Epoch:284 Loss:0.08593696
+Epoch:285 Loss:0.08544192
+Epoch:286 Loss:0.08319854
+Epoch:287 Loss:0.08523162
+Epoch:288 Loss:0.08381524
+Epoch:289 Loss:0.08665842
+Epoch:290 Loss:0.08654281
+Epoch:291 Loss:0.08817003
+Epoch:292 Loss:0.08325007
+Epoch:293 Loss:0.08830525
+Epoch:294 Loss:0.08871498
+Epoch:295 Loss:0.08653622
+Epoch:296 Loss:0.08363117
+Epoch:297 Loss:0.08987690
+Epoch:298 Loss:0.08806217
+Epoch:299 Loss:0.08277429
+Epoch:300 Loss:0.08576151
+Epoch:301 Loss:0.08725902
+Epoch:302 Loss:0.08553028
+Epoch:303 Loss:0.08687109
+Epoch:304 Loss:0.08121824
+Epoch:305 Loss:0.08620067
+Epoch:306 Loss:0.08327692
+Epoch:307 Loss:0.08455534
+Epoch:308 Loss:0.08367923
+Epoch:309 Loss:0.08685380
+Epoch:310 Loss:0.08292758
+Epoch:311 Loss:0.08548654
+Epoch:312 Loss:0.08517515
+Epoch:313 Loss:0.08540431
+Epoch:314 Loss:0.08659316
+Epoch:315 Loss:0.08536804
+Epoch:316 Loss:0.08259208
+Epoch:317 Loss:0.08668637
+Epoch:318 Loss:0.08530269
+Epoch:319 Loss:0.08311268
+Epoch:320 Loss:0.08643004
+Epoch:321 Loss:0.08037377
+Epoch:322 Loss:0.08253573
+Epoch:323 Loss:0.08480389
+Epoch:324 Loss:0.08234008
+Epoch:325 Loss:0.08123453
+Epoch:326 Loss:0.08724620
+Epoch:327 Loss:0.08131866
+Epoch:328 Loss:0.08329653
+Epoch:329 Loss:0.08526442
+Epoch:330 Loss:0.08516790
+Epoch:331 Loss:0.08630310
+Epoch:332 Loss:0.08476085
+Epoch:333 Loss:0.08541217
+Epoch:334 Loss:0.08102421
+Epoch:335 Loss:0.08192079
+Epoch:336 Loss:0.08086694
+Epoch:337 Loss:0.08386516
+Epoch:338 Loss:0.08550595
+Epoch:339 Loss:0.07995369
+Epoch:340 Loss:0.08171063
+Epoch:341 Loss:0.08071952
+Epoch:342 Loss:0.08189324
+Epoch:343 Loss:0.08441489
+Epoch:344 Loss:0.07973140
+Epoch:345 Loss:0.08283677
+Epoch:346 Loss:0.08132481
+Epoch:347 Loss:0.08149496
+Epoch:348 Loss:0.08092267
+Epoch:349 Loss:0.08147447
+Epoch:350 Loss:0.08142863
+Epoch:351 Loss:0.08123698
+Epoch:352 Loss:0.08317958
+Epoch:353 Loss:0.08161024
+Epoch:354 Loss:0.08644606
+Epoch:355 Loss:0.08346549
+Epoch:356 Loss:0.08150264
+Epoch:357 Loss:0.08491856
+Epoch:358 Loss:0.07930455
+Epoch:359 Loss:0.08079025
+Epoch:360 Loss:0.07852942
+Epoch:361 Loss:0.08073757
+Epoch:362 Loss:0.07879288
+Epoch:363 Loss:0.07984827
+Epoch:364 Loss:0.08008888
+Epoch:365 Loss:0.08142293
+Epoch:366 Loss:0.08148879
+Epoch:367 Loss:0.08316835
+Epoch:368 Loss:0.08005441
+Epoch:369 Loss:0.08005490
+Epoch:370 Loss:0.08176332
+Epoch:371 Loss:0.08335252
+Epoch:372 Loss:0.08262542
+Epoch:373 Loss:0.07943719
+Epoch:374 Loss:0.08091058
+Epoch:375 Loss:0.08343207
+Epoch:376 Loss:0.07737534
+Epoch:377 Loss:0.07811742
+Epoch:378 Loss:0.08120660
+Epoch:379 Loss:0.08120097
+Epoch:380 Loss:0.08112615
+Epoch:381 Loss:0.08325408
+Epoch:382 Loss:0.07710122
+Epoch:383 Loss:0.07672448
+Epoch:384 Loss:0.08171001
+Epoch:385 Loss:0.07587804
+Epoch:386 Loss:0.07899952
+Epoch:387 Loss:0.08467702
+Epoch:388 Loss:0.08001538
+Epoch:389 Loss:0.07973913
+Epoch:390 Loss:0.08002395
+Epoch:391 Loss:0.07966711
+Epoch:392 Loss:0.08177092
+Epoch:393 Loss:0.08073860
+Epoch:394 Loss:0.08104562
+Epoch:395 Loss:0.07811176
+Epoch:396 Loss:0.08067030
+Epoch:397 Loss:0.07958102
+Epoch:398 Loss:0.07552061
+Epoch:399 Loss:0.07851822
+Loading 398th epoch
+Testing AUC!
+
+/home/syf/subgraph-contrast/utils.py:150: RuntimeWarning: divide by zero encountered in power
+  d_inv_sqrt = np.power(rowsum, -0.5).flatten()
+  0%|          | 0/256 [00:00<?, ?it/s]Testing:   0%|          | 0/256 [00:00<?, ?it/s]Testing:   0%|          | 1/256 [00:01<04:38,  1.09s/it]Testing:   1%|          | 2/256 [00:02<04:48,  1.14s/it]Testing:   1%|          | 3/256 [00:03<04:45,  1.13s/it]Testing:   2%|▏         | 4/256 [00:04<04:44,  1.13s/it]Testing:   2%|▏         | 5/256 [00:05<04:41,  1.12s/it]Testing:   2%|▏         | 6/256 [00:06<04:38,  1.12s/it]Testing:   3%|▎         | 7/256 [00:07<04:39,  1.12s/it]Testing:   3%|▎         | 8/256 [00:08<04:34,  1.11s/it]Testing:   4%|▎         | 9/256 [00:10<04:35,  1.12s/it]Testing:   4%|▍         | 10/256 [00:11<04:33,  1.11s/it]Testing:   4%|▍         | 11/256 [00:12<04:33,  1.12s/it]Testing:   5%|▍         | 12/256 [00:13<04:32,  1.12s/it]Testing:   5%|▌         | 13/256 [00:14<04:29,  1.11s/it]Testing:   5%|▌         | 14/256 [00:15<04:30,  1.12s/it]Testing:   6%|▌         | 15/256 [00:16<04:28,  1.12s/it]Testing:   6%|▋         | 16/256 [00:17<04:28,  1.12s/it]Testing:   7%|▋         | 17/256 [00:18<04:25,  1.11s/it]Testing:   7%|▋         | 18/256 [00:20<04:23,  1.11s/it]Testing:   7%|▋         | 19/256 [00:21<04:23,  1.11s/it]Testing:   8%|▊         | 20/256 [00:22<04:20,  1.10s/it]Testing:   8%|▊         | 21/256 [00:23<04:21,  1.11s/it]Testing:   9%|▊         | 22/256 [00:24<04:18,  1.10s/it]Testing:   9%|▉         | 23/256 [00:25<04:20,  1.12s/it]Testing:   9%|▉         | 24/256 [00:26<04:18,  1.11s/it]Testing:  10%|▉         | 25/256 [00:27<04:18,  1.12s/it]Testing:  10%|█         | 26/256 [00:28<04:17,  1.12s/it]Testing:  11%|█         | 27/256 [00:30<04:14,  1.11s/it]Testing:  11%|█         | 28/256 [00:31<04:14,  1.11s/it]Testing:  11%|█▏        | 29/256 [00:32<04:11,  1.11s/it]Testing:  12%|█▏        | 30/256 [00:33<04:12,  1.12s/it]Testing:  12%|█▏        | 31/256 [00:34<04:09,  1.11s/it]Testing:  12%|█▎        | 32/256 [00:35<04:09,  1.11s/it]Testing:  13%|█▎        | 33/256 [00:36<04:09,  1.12s/it]Testing:  13%|█▎        | 34/256 [00:37<04:06,  1.11s/it]Testing:  14%|█▎        | 35/256 [00:39<04:07,  1.12s/it]Testing:  14%|█▍        | 36/256 [00:40<04:03,  1.11s/it]Testing:  14%|█▍        | 37/256 [00:41<04:04,  1.12s/it]Testing:  15%|█▍        | 38/256 [00:42<04:02,  1.11s/it]Testing:  15%|█▌        | 39/256 [00:43<04:02,  1.12s/it]Testing:  16%|█▌        | 40/256 [00:44<04:01,  1.12s/it]Testing:  16%|█▌        | 41/256 [00:45<03:58,  1.11s/it]Testing:  16%|█▋        | 42/256 [00:46<03:59,  1.12s/it]Testing:  17%|█▋        | 43/256 [00:47<03:58,  1.12s/it]Testing:  17%|█▋        | 44/256 [00:49<03:58,  1.13s/it]Testing:  18%|█▊        | 45/256 [00:50<03:55,  1.12s/it]Testing:  18%|█▊        | 46/256 [00:51<03:56,  1.13s/it]Testing:  18%|█▊        | 47/256 [00:52<03:54,  1.12s/it]Testing:  19%|█▉        | 48/256 [00:53<03:51,  1.11s/it]Testing:  19%|█▉        | 49/256 [00:54<03:51,  1.12s/it]Testing:  20%|█▉        | 50/256 [00:55<03:47,  1.10s/it]Testing:  20%|█▉        | 51/256 [00:56<03:44,  1.10s/it]Testing:  20%|██        | 52/256 [00:57<03:42,  1.09s/it]Testing:  21%|██        | 53/256 [00:58<03:40,  1.09s/it]Testing:  21%|██        | 54/256 [01:00<03:39,  1.09s/it]Testing:  21%|██▏       | 55/256 [01:01<03:36,  1.08s/it]Testing:  22%|██▏       | 56/256 [01:02<03:37,  1.09s/it]Testing:  22%|██▏       | 57/256 [01:03<03:34,  1.08s/it]Testing:  23%|██▎       | 58/256 [01:04<03:35,  1.09s/it]Testing:  23%|██▎       | 59/256 [01:05<03:33,  1.08s/it]Testing:  23%|██▎       | 60/256 [01:06<03:34,  1.09s/it]Testing:  24%|██▍       | 61/256 [01:07<03:33,  1.10s/it]Testing:  24%|██▍       | 62/256 [01:08<03:32,  1.10s/it]Testing:  25%|██▍       | 63/256 [01:09<03:34,  1.11s/it]Testing:  25%|██▌       | 64/256 [01:10<03:30,  1.10s/it]Testing:  25%|██▌       | 65/256 [01:12<03:30,  1.10s/it]Testing:  26%|██▌       | 66/256 [01:13<03:27,  1.09s/it]Testing:  26%|██▌       | 67/256 [01:14<03:27,  1.10s/it]Testing:  27%|██▋       | 68/256 [01:15<03:24,  1.09s/it]Testing:  27%|██▋       | 69/256 [01:16<03:22,  1.08s/it]Testing:  27%|██▋       | 70/256 [01:17<03:22,  1.09s/it]Testing:  28%|██▊       | 71/256 [01:18<03:22,  1.09s/it]Testing:  28%|██▊       | 72/256 [01:19<03:24,  1.11s/it]Testing:  29%|██▊       | 73/256 [01:20<03:22,  1.11s/it]Testing:  29%|██▉       | 74/256 [01:22<03:22,  1.11s/it]Testing:  29%|██▉       | 75/256 [01:23<03:21,  1.11s/it]Testing:  30%|██▉       | 76/256 [01:24<03:19,  1.11s/it]Testing:  30%|███       | 77/256 [01:25<03:19,  1.12s/it]Testing:  30%|███       | 78/256 [01:26<03:17,  1.11s/it]Testing:  31%|███       | 79/256 [01:27<03:17,  1.12s/it]Testing:  31%|███▏      | 80/256 [01:28<03:15,  1.11s/it]Testing:  32%|███▏      | 81/256 [01:29<03:15,  1.12s/it]Testing:  32%|███▏      | 82/256 [01:30<03:14,  1.12s/it]Testing:  32%|███▏      | 83/256 [01:32<03:12,  1.11s/it]Testing:  33%|███▎      | 84/256 [01:33<03:12,  1.12s/it]Testing:  33%|███▎      | 85/256 [01:34<03:09,  1.11s/it]Testing:  34%|███▎      | 86/256 [01:35<03:09,  1.11s/it]Testing:  34%|███▍      | 87/256 [01:36<03:06,  1.10s/it]Testing:  34%|███▍      | 88/256 [01:37<03:06,  1.11s/it]Testing:  35%|███▍      | 89/256 [01:38<03:06,  1.12s/it]Testing:  35%|███▌      | 90/256 [01:39<03:03,  1.10s/it]Testing:  36%|███▌      | 91/256 [01:40<03:03,  1.11s/it]Testing:  36%|███▌      | 92/256 [01:42<03:01,  1.11s/it]Testing:  36%|███▋      | 93/256 [01:43<03:01,  1.11s/it]Testing:  37%|███▋      | 94/256 [01:44<02:59,  1.11s/it]Testing:  37%|███▋      | 95/256 [01:45<02:59,  1.11s/it]Testing:  38%|███▊      | 96/256 [01:46<02:58,  1.12s/it]Testing:  38%|███▊      | 97/256 [01:47<02:56,  1.11s/it]Testing:  38%|███▊      | 98/256 [01:48<02:57,  1.12s/it]Testing:  39%|███▊      | 99/256 [01:49<02:55,  1.12s/it]Testing:  39%|███▉      | 100/256 [01:50<02:55,  1.13s/it]Testing:  39%|███▉      | 101/256 [01:52<02:53,  1.12s/it]Testing:  40%|███▉      | 102/256 [01:53<02:51,  1.12s/it]Testing:  40%|████      | 103/256 [01:54<02:51,  1.12s/it]Testing:  41%|████      | 104/256 [01:55<02:47,  1.10s/it]Testing:  41%|████      | 105/256 [01:56<02:46,  1.11s/it]Testing:  41%|████▏     | 106/256 [01:57<02:45,  1.10s/it]Testing:  42%|████▏     | 107/256 [01:58<02:45,  1.11s/it]Testing:  42%|████▏     | 108/256 [01:59<02:44,  1.11s/it]Testing:  43%|████▎     | 109/256 [02:00<02:43,  1.11s/it]Testing:  43%|████▎     | 110/256 [02:02<02:42,  1.11s/it]Testing:  43%|████▎     | 111/256 [02:03<02:40,  1.11s/it]Testing:  44%|████▍     | 112/256 [02:04<02:40,  1.11s/it]Testing:  44%|████▍     | 113/256 [02:05<02:38,  1.11s/it]Testing:  45%|████▍     | 114/256 [02:06<02:38,  1.12s/it]Testing:  45%|████▍     | 115/256 [02:07<02:36,  1.11s/it]Testing:  45%|████▌     | 116/256 [02:08<02:36,  1.12s/it]Testing:  46%|████▌     | 117/256 [02:09<02:36,  1.13s/it]Testing:  46%|████▌     | 118/256 [02:10<02:33,  1.11s/it]Testing:  46%|████▋     | 119/256 [02:12<02:33,  1.12s/it]Testing:  47%|████▋     | 120/256 [02:13<02:31,  1.11s/it]Testing:  47%|████▋     | 121/256 [02:14<02:30,  1.11s/it]Testing:  48%|████▊     | 122/256 [02:15<02:28,  1.11s/it]Testing:  48%|████▊     | 123/256 [02:16<02:28,  1.11s/it]Testing:  48%|████▊     | 124/256 [02:17<02:27,  1.12s/it]Testing:  49%|████▉     | 125/256 [02:18<02:25,  1.11s/it]Testing:  49%|████▉     | 126/256 [02:19<02:25,  1.12s/it]Testing:  50%|████▉     | 127/256 [02:20<02:21,  1.10s/it]Testing:  50%|█████     | 128/256 [02:22<02:20,  1.10s/it]Testing:  50%|█████     | 129/256 [02:23<02:19,  1.10s/it]Testing:  51%|█████     | 130/256 [02:24<02:19,  1.11s/it]Testing:  51%|█████     | 131/256 [02:25<02:19,  1.12s/it]Testing:  52%|█████▏    | 132/256 [02:26<02:17,  1.11s/it]Testing:  52%|█████▏    | 133/256 [02:27<02:17,  1.12s/it]Testing:  52%|█████▏    | 134/256 [02:28<02:15,  1.11s/it]Testing:  53%|█████▎    | 135/256 [02:29<02:14,  1.12s/it]Testing:  53%|█████▎    | 136/256 [02:30<02:12,  1.11s/it]Testing:  54%|█████▎    | 137/256 [02:32<02:12,  1.11s/it]Testing:  54%|█████▍    | 138/256 [02:33<02:11,  1.12s/it]Testing:  54%|█████▍    | 139/256 [02:34<02:09,  1.10s/it]Testing:  55%|█████▍    | 140/256 [02:35<02:08,  1.11s/it]Testing:  55%|█████▌    | 141/256 [02:36<02:05,  1.09s/it]Testing:  55%|█████▌    | 142/256 [02:37<02:04,  1.10s/it]Testing:  56%|█████▌    | 143/256 [02:38<02:02,  1.09s/it]Testing:  56%|█████▋    | 144/256 [02:39<02:02,  1.09s/it]Testing:  57%|█████▋    | 145/256 [02:40<02:01,  1.09s/it]Testing:  57%|█████▋    | 146/256 [02:41<01:59,  1.08s/it]Testing:  57%|█████▋    | 147/256 [02:43<01:59,  1.09s/it]Testing:  58%|█████▊    | 148/256 [02:44<01:57,  1.08s/it]Testing:  58%|█████▊    | 149/256 [02:45<01:56,  1.09s/it]Testing:  59%|█████▊    | 150/256 [02:46<01:54,  1.08s/it]Testing:  59%|█████▉    | 151/256 [02:47<01:54,  1.09s/it]Testing:  59%|█████▉    | 152/256 [02:48<01:54,  1.10s/it]Testing:  60%|█████▉    | 153/256 [02:49<01:52,  1.09s/it]Testing:  60%|██████    | 154/256 [02:50<01:52,  1.10s/it]Testing:  61%|██████    | 155/256 [02:51<01:50,  1.10s/it]Testing:  61%|██████    | 156/256 [02:52<01:49,  1.10s/it]Testing:  61%|██████▏   | 157/256 [02:53<01:47,  1.09s/it]Testing:  62%|██████▏   | 158/256 [02:55<01:47,  1.10s/it]Testing:  62%|██████▏   | 159/256 [02:56<01:46,  1.09s/it]Testing:  62%|██████▎   | 160/256 [02:57<01:44,  1.09s/it]Testing:  63%|██████▎   | 161/256 [02:58<01:44,  1.10s/it]Testing:  63%|██████▎   | 162/256 [02:59<01:42,  1.09s/it]Testing:  64%|██████▎   | 163/256 [03:00<01:42,  1.10s/it]Testing:  64%|██████▍   | 164/256 [03:01<01:40,  1.09s/it]Testing:  64%|██████▍   | 165/256 [03:02<01:39,  1.09s/it]Testing:  65%|██████▍   | 166/256 [03:03<01:38,  1.09s/it]Testing:  65%|██████▌   | 167/256 [03:04<01:36,  1.09s/it]Testing:  66%|██████▌   | 168/256 [03:05<01:36,  1.10s/it]Testing:  66%|██████▌   | 169/256 [03:07<01:34,  1.09s/it]Testing:  66%|██████▋   | 170/256 [03:08<01:34,  1.09s/it]Testing:  67%|██████▋   | 171/256 [03:09<01:32,  1.09s/it]Testing:  67%|██████▋   | 172/256 [03:10<01:31,  1.09s/it]Testing:  68%|██████▊   | 173/256 [03:11<01:31,  1.10s/it]Testing:  68%|██████▊   | 174/256 [03:12<01:29,  1.09s/it]Testing:  68%|██████▊   | 175/256 [03:13<01:29,  1.10s/it]Testing:  69%|██████▉   | 176/256 [03:14<01:27,  1.09s/it]Testing:  69%|██████▉   | 177/256 [03:15<01:26,  1.09s/it]Testing:  70%|██████▉   | 178/256 [03:16<01:24,  1.09s/it]Testing:  70%|██████▉   | 179/256 [03:17<01:24,  1.09s/it]Testing:  70%|███████   | 180/256 [03:19<01:23,  1.09s/it]Testing:  71%|███████   | 181/256 [03:20<01:21,  1.09s/it]Testing:  71%|███████   | 182/256 [03:21<01:21,  1.10s/it]Testing:  71%|███████▏  | 183/256 [03:22<01:19,  1.09s/it]Testing:  72%|███████▏  | 184/256 [03:23<01:19,  1.10s/it]Testing:  72%|███████▏  | 185/256 [03:24<01:16,  1.08s/it]Testing:  73%|███████▎  | 186/256 [03:25<01:15,  1.08s/it]Testing:  73%|███████▎  | 187/256 [03:26<01:15,  1.09s/it]Testing:  73%|███████▎  | 188/256 [03:27<01:13,  1.08s/it]Testing:  74%|███████▍  | 189/256 [03:28<01:13,  1.09s/it]Testing:  74%|███████▍  | 190/256 [03:29<01:11,  1.09s/it]Testing:  75%|███████▍  | 191/256 [03:31<01:11,  1.10s/it]Testing:  75%|███████▌  | 192/256 [03:32<01:09,  1.09s/it]Testing:  75%|███████▌  | 193/256 [03:33<01:09,  1.10s/it]Testing:  76%|███████▌  | 194/256 [03:34<01:07,  1.09s/it]Testing:  76%|███████▌  | 195/256 [03:35<01:06,  1.09s/it]Testing:  77%|███████▋  | 196/256 [03:36<01:06,  1.11s/it]Testing:  77%|███████▋  | 197/256 [03:37<01:05,  1.10s/it]Testing:  77%|███████▋  | 198/256 [03:38<01:04,  1.11s/it]Testing:  78%|███████▊  | 199/256 [03:39<01:03,  1.11s/it]Testing:  78%|███████▊  | 200/256 [03:41<01:02,  1.11s/it]Testing:  79%|███████▊  | 201/256 [03:42<01:01,  1.12s/it]Testing:  79%|███████▉  | 202/256 [03:43<00:59,  1.11s/it]Testing:  79%|███████▉  | 203/256 [03:44<00:58,  1.11s/it]Testing:  80%|███████▉  | 204/256 [03:45<00:57,  1.10s/it]Testing:  80%|████████  | 205/256 [03:46<00:56,  1.10s/it]Testing:  80%|████████  | 206/256 [03:47<00:54,  1.09s/it]Testing:  81%|████████  | 207/256 [03:48<00:53,  1.09s/it]Testing:  81%|████████▏ | 208/256 [03:49<00:52,  1.10s/it]Testing:  82%|████████▏ | 209/256 [03:50<00:51,  1.10s/it]Testing:  82%|████████▏ | 210/256 [03:52<00:51,  1.11s/it]Testing:  82%|████████▏ | 211/256 [03:53<00:49,  1.10s/it]Testing:  83%|████████▎ | 212/256 [03:54<00:48,  1.10s/it]Testing:  83%|████████▎ | 213/256 [03:55<00:47,  1.10s/it]Testing:  84%|████████▎ | 214/256 [03:56<00:46,  1.10s/it]Testing:  84%|████████▍ | 215/256 [03:57<00:45,  1.11s/it]Testing:  84%|████████▍ | 216/256 [03:58<00:43,  1.10s/it]Testing:  85%|████████▍ | 217/256 [03:59<00:42,  1.10s/it]Testing:  85%|████████▌ | 218/256 [04:00<00:41,  1.09s/it]Testing:  86%|████████▌ | 219/256 [04:01<00:40,  1.10s/it]Testing:  86%|████████▌ | 220/256 [04:03<00:39,  1.09s/it]Testing:  86%|████████▋ | 221/256 [04:04<00:38,  1.09s/it]Testing:  87%|████████▋ | 222/256 [04:05<00:37,  1.09s/it]Testing:  87%|████████▋ | 223/256 [04:06<00:35,  1.09s/it]Testing:  88%|████████▊ | 224/256 [04:07<00:35,  1.09s/it]Testing:  88%|████████▊ | 225/256 [04:08<00:33,  1.09s/it]Testing:  88%|████████▊ | 226/256 [04:09<00:32,  1.09s/it]Testing:  89%|████████▊ | 227/256 [04:10<00:31,  1.09s/it]Testing:  89%|████████▉ | 228/256 [04:11<00:30,  1.10s/it]Testing:  89%|████████▉ | 229/256 [04:12<00:30,  1.12s/it]Testing:  90%|████████▉ | 230/256 [04:14<00:28,  1.11s/it]Testing:  90%|█████████ | 231/256 [04:15<00:27,  1.12s/it]Testing:  91%|█████████ | 232/256 [04:16<00:26,  1.12s/it]Testing:  91%|█████████ | 233/256 [04:17<00:25,  1.13s/it]Testing:  91%|█████████▏| 234/256 [04:18<00:24,  1.12s/it]Testing:  92%|█████████▏| 235/256 [04:19<00:23,  1.12s/it]Testing:  92%|█████████▏| 236/256 [04:20<00:22,  1.13s/it]Testing:  93%|█████████▎| 237/256 [04:21<00:21,  1.12s/it]Testing:  93%|█████████▎| 238/256 [04:23<00:20,  1.13s/it]Testing:  93%|█████████▎| 239/256 [04:24<00:19,  1.12s/it]Testing:  94%|█████████▍| 240/256 [04:25<00:18,  1.13s/it]Testing:  94%|█████████▍| 241/256 [04:26<00:16,  1.12s/it]Testing:  95%|█████████▍| 242/256 [04:27<00:15,  1.13s/it]Testing:  95%|█████████▍| 243/256 [04:28<00:14,  1.13s/it]Testing:  95%|█████████▌| 244/256 [04:29<00:13,  1.12s/it]Testing:  96%|█████████▌| 245/256 [04:30<00:12,  1.13s/it]Testing:  96%|█████████▌| 246/256 [04:31<00:11,  1.12s/it]Testing:  96%|█████████▋| 247/256 [04:33<00:10,  1.12s/it]Testing:  97%|█████████▋| 248/256 [04:34<00:08,  1.12s/it]Testing:  97%|█████████▋| 249/256 [04:35<00:07,  1.12s/it]Testing:  98%|█████████▊| 250/256 [04:36<00:06,  1.12s/it]Testing:  98%|█████████▊| 251/256 [04:37<00:05,  1.12s/it]Testing:  98%|█████████▊| 252/256 [04:38<00:04,  1.12s/it]Testing:  99%|█████████▉| 253/256 [04:39<00:03,  1.12s/it]Testing:  99%|█████████▉| 254/256 [04:40<00:02,  1.12s/it]Testing: 100%|█████████▉| 255/256 [04:42<00:01,  1.12s/it]Testing: 100%|██████████| 256/256 [04:43<00:00,  1.13s/it]Testing AUC:0.8950
+Testing: 100%|██████████| 256/256 [04:43<00:00,  1.11s/it]
+# Run:3 with random seed:4
+Epoch:0 Loss:0.20794309
+Epoch:1 Loss:0.20793654
+Epoch:2 Loss:0.20792054
+Epoch:3 Loss:0.20787697
+Epoch:4 Loss:0.20777084
+Epoch:5 Loss:0.20751699
+Epoch:6 Loss:0.20695360
+Epoch:7 Loss:0.20588010
+Epoch:8 Loss:0.20404871
+Epoch:9 Loss:0.20145903
+Epoch:10 Loss:0.19781875
+Epoch:11 Loss:0.19433635
+Epoch:12 Loss:0.18991988
+Epoch:13 Loss:0.18584714
+Epoch:14 Loss:0.18298564
+Epoch:15 Loss:0.18014200
+Epoch:16 Loss:0.17701230
+Epoch:17 Loss:0.17488211
+Epoch:18 Loss:0.17281101
+Epoch:19 Loss:0.17005957
+Epoch:20 Loss:0.16993807
+Epoch:21 Loss:0.16455756
+Epoch:22 Loss:0.16697222
+Epoch:23 Loss:0.16750076
+Epoch:24 Loss:0.16261188
+Epoch:25 Loss:0.16245459
+Epoch:26 Loss:0.16173628
+Epoch:27 Loss:0.15908592
+Epoch:28 Loss:0.15759436
+Epoch:29 Loss:0.15638723
+Epoch:30 Loss:0.15554404
+Epoch:31 Loss:0.15479423
+Epoch:32 Loss:0.15401450
+Epoch:33 Loss:0.15142418
+Epoch:34 Loss:0.14894754
+Epoch:35 Loss:0.14914076
+Epoch:36 Loss:0.14824988
+Epoch:37 Loss:0.14806082
+Epoch:38 Loss:0.14756432
+Epoch:39 Loss:0.14782897
+Epoch:40 Loss:0.14850484
+Epoch:41 Loss:0.14858255
+Epoch:42 Loss:0.14449601
+Epoch:43 Loss:0.14557225
+Epoch:44 Loss:0.14335945
+Epoch:45 Loss:0.14702719
+Epoch:46 Loss:0.14255916
+Epoch:47 Loss:0.14268318
+Epoch:48 Loss:0.14148403
+Epoch:49 Loss:0.13946496
+Epoch:50 Loss:0.14144156
+Epoch:51 Loss:0.13926024
+Epoch:52 Loss:0.13715827
+Epoch:53 Loss:0.14014545
+Epoch:54 Loss:0.13517845
+Epoch:55 Loss:0.13904612
+Epoch:56 Loss:0.13736295
+Epoch:57 Loss:0.13648929
+Epoch:58 Loss:0.13670125
+Epoch:59 Loss:0.13676790
+Epoch:60 Loss:0.13345570
+Epoch:61 Loss:0.13338347
+Epoch:62 Loss:0.13479964
+Epoch:63 Loss:0.13132428
+Epoch:64 Loss:0.13287023
+Epoch:65 Loss:0.13091435
+Epoch:66 Loss:0.13062672
+Epoch:67 Loss:0.13252175
+Epoch:68 Loss:0.12963793
+Epoch:69 Loss:0.12756828
+Epoch:70 Loss:0.13013075
+Epoch:71 Loss:0.12745172
+Epoch:72 Loss:0.12916150
+Epoch:73 Loss:0.13298771
+Epoch:74 Loss:0.12795862
+Epoch:75 Loss:0.12786432
+Epoch:76 Loss:0.12523432
+Epoch:77 Loss:0.12597367
+Epoch:78 Loss:0.12649519
+Epoch:79 Loss:0.12336859
+Epoch:80 Loss:0.12217389
+Epoch:81 Loss:0.12144941
+Epoch:82 Loss:0.12591170
+Epoch:83 Loss:0.12125190
+Epoch:84 Loss:0.12280593
+Epoch:85 Loss:0.11942448
+Epoch:86 Loss:0.12155197
+Epoch:87 Loss:0.12477547
+Epoch:88 Loss:0.12019054
+Epoch:89 Loss:0.12163031
+Epoch:90 Loss:0.12006223
+Epoch:91 Loss:0.12064296
+Epoch:92 Loss:0.11808207
+Epoch:93 Loss:0.12048239
+Epoch:94 Loss:0.11734659
+Epoch:95 Loss:0.11999349
+Epoch:96 Loss:0.11993480
+Epoch:97 Loss:0.11538499
+Epoch:98 Loss:0.11585825
+Epoch:99 Loss:0.11759679
+Epoch:100 Loss:0.11700251
+Epoch:101 Loss:0.11949686
+Epoch:102 Loss:0.11651524
+Epoch:103 Loss:0.11662298
+Epoch:104 Loss:0.11384323
+Epoch:105 Loss:0.11388672
+Epoch:106 Loss:0.11440584
+Epoch:107 Loss:0.11091705
+Epoch:108 Loss:0.11716473
+Epoch:109 Loss:0.11347599
+Epoch:110 Loss:0.11371935
+Epoch:111 Loss:0.11497492
+Epoch:112 Loss:0.10971673
+Epoch:113 Loss:0.11130830
+Epoch:114 Loss:0.11348781
+Epoch:115 Loss:0.11014608
+Epoch:116 Loss:0.11264621
+Epoch:117 Loss:0.11184890
+Epoch:118 Loss:0.11173742
+Epoch:119 Loss:0.10971618
+Epoch:120 Loss:0.11183474
+Epoch:121 Loss:0.11050677
+Epoch:122 Loss:0.11195807
+Epoch:123 Loss:0.11089808
+Epoch:124 Loss:0.11011351
+Epoch:125 Loss:0.11067750
+Epoch:126 Loss:0.11133005
+Epoch:127 Loss:0.11270055
+Epoch:128 Loss:0.10735556
+Epoch:129 Loss:0.11160728
+Epoch:130 Loss:0.10818818
+Epoch:131 Loss:0.11159796
+Epoch:132 Loss:0.10867025
+Epoch:133 Loss:0.10614193
+Epoch:134 Loss:0.10894022
+Epoch:135 Loss:0.10413850
+Epoch:136 Loss:0.10503129
+Epoch:137 Loss:0.10653849
+Epoch:138 Loss:0.11033772
+Epoch:139 Loss:0.10666848
+Epoch:140 Loss:0.10957806
+Epoch:141 Loss:0.10529703
+Epoch:142 Loss:0.10616724
+Epoch:143 Loss:0.10898199
+Epoch:144 Loss:0.10729601
+Epoch:145 Loss:0.10494569
+Epoch:146 Loss:0.10565761
+Epoch:147 Loss:0.10196411
+Epoch:148 Loss:0.10685739
+Epoch:149 Loss:0.10266211
+Epoch:150 Loss:0.10422528
+Epoch:151 Loss:0.10498123
+Epoch:152 Loss:0.10563889
+Epoch:153 Loss:0.10422482
+Epoch:154 Loss:0.10264200
+Epoch:155 Loss:0.10245573
+Epoch:156 Loss:0.10099935
+Epoch:157 Loss:0.10006413
+Epoch:158 Loss:0.10162738
+Epoch:159 Loss:0.10122478
+Epoch:160 Loss:0.10441118
+Epoch:161 Loss:0.10043738
+Epoch:162 Loss:0.10477574
+Epoch:163 Loss:0.10488540
+Epoch:164 Loss:0.10365687
+Epoch:165 Loss:0.09997505
+Epoch:166 Loss:0.10097718
+Epoch:167 Loss:0.10103681
+Epoch:168 Loss:0.10176836
+Epoch:169 Loss:0.10205907
+Epoch:170 Loss:0.09718151
+Epoch:171 Loss:0.09868461
+Epoch:172 Loss:0.09746139
+Epoch:173 Loss:0.09815427
+Epoch:174 Loss:0.09645503
+Epoch:175 Loss:0.09771346
+Epoch:176 Loss:0.10188318
+Epoch:177 Loss:0.09897659
+Epoch:178 Loss:0.09925340
+Epoch:179 Loss:0.09739815
+Epoch:180 Loss:0.09729574
+Epoch:181 Loss:0.10060170
+Epoch:182 Loss:0.09890307
+Epoch:183 Loss:0.10241768
+Epoch:184 Loss:0.09985687
+Epoch:185 Loss:0.09586917
+Epoch:186 Loss:0.09918308
+Epoch:187 Loss:0.09427322
+Epoch:188 Loss:0.09892191
+Epoch:189 Loss:0.09489380
+Epoch:190 Loss:0.09787237
+Epoch:191 Loss:0.09610271
+Epoch:192 Loss:0.09761437
+Epoch:193 Loss:0.09837903
+Epoch:194 Loss:0.09496198
+Epoch:195 Loss:0.10082264
+Epoch:196 Loss:0.10051071
+Epoch:197 Loss:0.09783897
+Epoch:198 Loss:0.09662844
+Epoch:199 Loss:0.09636594
+Epoch:200 Loss:0.10010705
+Epoch:201 Loss:0.09731501
+Epoch:202 Loss:0.09634948
+Epoch:203 Loss:0.09497223
+Epoch:204 Loss:0.09976975
+Epoch:205 Loss:0.09476554
+Epoch:206 Loss:0.09060320
+Epoch:207 Loss:0.09678994
+Epoch:208 Loss:0.09575867
+Epoch:209 Loss:0.09815152
+Epoch:210 Loss:0.09184549
+Epoch:211 Loss:0.09544262
+Epoch:212 Loss:0.09665915
+Epoch:213 Loss:0.09735409
+Epoch:214 Loss:0.09240844
+Epoch:215 Loss:0.09510538
+Epoch:216 Loss:0.09510827
+Epoch:217 Loss:0.09785789
+Epoch:218 Loss:0.09339893
+Epoch:219 Loss:0.09599658
+Epoch:220 Loss:0.09430972
+Epoch:221 Loss:0.09250747
+Epoch:222 Loss:0.09352477
+Epoch:223 Loss:0.09444341
+Epoch:224 Loss:0.09708946
+Epoch:225 Loss:0.09397337
+Epoch:226 Loss:0.09229131
+Epoch:227 Loss:0.09169093
+Epoch:228 Loss:0.09545539
+Epoch:229 Loss:0.09265456
+Epoch:230 Loss:0.09056807
+Epoch:231 Loss:0.09046169
+Epoch:232 Loss:0.09336817
+Epoch:233 Loss:0.08805240
+Epoch:234 Loss:0.09269117
+Epoch:235 Loss:0.08949637
+Epoch:236 Loss:0.09026168
+Epoch:237 Loss:0.09378360
+Epoch:238 Loss:0.09480081
+Epoch:239 Loss:0.09357651
+Epoch:240 Loss:0.08748916
+Epoch:241 Loss:0.09062187
+Epoch:242 Loss:0.09017659
+Epoch:243 Loss:0.08910436
+Epoch:244 Loss:0.08875067
+Epoch:245 Loss:0.09360494
+Epoch:246 Loss:0.09504716
+Epoch:247 Loss:0.08803205
+Epoch:248 Loss:0.09275856
+Epoch:249 Loss:0.09424724
+Epoch:250 Loss:0.09166478
+Epoch:251 Loss:0.09032070
+Epoch:252 Loss:0.09162110
+Epoch:253 Loss:0.09161336
+Epoch:254 Loss:0.08928715
+Epoch:255 Loss:0.08682155
+Epoch:256 Loss:0.08854550
+Epoch:257 Loss:0.09149306
+Epoch:258 Loss:0.09055156
+Epoch:259 Loss:0.09019308
+Epoch:260 Loss:0.09139176
+Epoch:261 Loss:0.08972662
+Epoch:262 Loss:0.09020130
+Epoch:263 Loss:0.08901555
+Epoch:264 Loss:0.08940567
+Epoch:265 Loss:0.08914477
+Epoch:266 Loss:0.09065094
+Epoch:267 Loss:0.09044606
+Epoch:268 Loss:0.08630936
+Epoch:269 Loss:0.08938638
+Epoch:270 Loss:0.08801353
+Epoch:271 Loss:0.09163278
+Epoch:272 Loss:0.08808327
+Epoch:273 Loss:0.09284507
+Epoch:274 Loss:0.09251662
+Epoch:275 Loss:0.08798855
+Epoch:276 Loss:0.08615254
+Epoch:277 Loss:0.08916380
+Epoch:278 Loss:0.09196079
+Epoch:279 Loss:0.08973005
+Epoch:280 Loss:0.08611285
+Epoch:281 Loss:0.08793214
+Epoch:282 Loss:0.08886744
+Epoch:283 Loss:0.08740191
+Epoch:284 Loss:0.08547993
+Epoch:285 Loss:0.08485753
+Epoch:286 Loss:0.08864901
+Epoch:287 Loss:0.08816285
+Epoch:288 Loss:0.08787102
+Epoch:289 Loss:0.08568842
+Epoch:290 Loss:0.08635442
+Epoch:291 Loss:0.08838379
+Epoch:292 Loss:0.08626715
+Epoch:293 Loss:0.08908789
+Epoch:294 Loss:0.08983452
+Epoch:295 Loss:0.08800501
+Epoch:296 Loss:0.08405332
+Epoch:297 Loss:0.08772359
+Epoch:298 Loss:0.08640905
+Epoch:299 Loss:0.09118433
+Epoch:300 Loss:0.08604408
+Epoch:301 Loss:0.08567581
+Epoch:302 Loss:0.08836730
+Epoch:303 Loss:0.08794501
+Epoch:304 Loss:0.08387352
+Epoch:305 Loss:0.08918577
+Epoch:306 Loss:0.08935827
+Epoch:307 Loss:0.08589402
+Epoch:308 Loss:0.08932918
+Epoch:309 Loss:0.08325282
+Epoch:310 Loss:0.08409063
+Epoch:311 Loss:0.08628853
+Epoch:312 Loss:0.08341463
+Epoch:313 Loss:0.08821457
+Epoch:314 Loss:0.08356968
+Epoch:315 Loss:0.08770697
+Epoch:316 Loss:0.08443236
+Epoch:317 Loss:0.08466453
+Epoch:318 Loss:0.08649523
+Epoch:319 Loss:0.08315851
+Epoch:320 Loss:0.08588933
+Epoch:321 Loss:0.08447665
+Epoch:322 Loss:0.08667427
+Epoch:323 Loss:0.08175036
+Epoch:324 Loss:0.08530728
+Epoch:325 Loss:0.08519766
+Epoch:326 Loss:0.09076726
+Epoch:327 Loss:0.08467217
+Epoch:328 Loss:0.08466077
+Epoch:329 Loss:0.08658853
+Epoch:330 Loss:0.08434079
+Epoch:331 Loss:0.08331215
+Epoch:332 Loss:0.08560004
+Epoch:333 Loss:0.08844106
+Epoch:334 Loss:0.08490797
+Epoch:335 Loss:0.08473539
+Epoch:336 Loss:0.08512530
+Epoch:337 Loss:0.08384968
+Epoch:338 Loss:0.08304470
+Epoch:339 Loss:0.08486027
+Epoch:340 Loss:0.08483786
+Epoch:341 Loss:0.08265963
+Epoch:342 Loss:0.08752137
+Epoch:343 Loss:0.08626115
+Epoch:344 Loss:0.08304481
+Epoch:345 Loss:0.08394318
+Epoch:346 Loss:0.08155087
+Epoch:347 Loss:0.07967129
+Epoch:348 Loss:0.08064384
+Epoch:349 Loss:0.08517742
+Epoch:350 Loss:0.08175124
+Epoch:351 Loss:0.08627034
+Epoch:352 Loss:0.08274289
+Epoch:353 Loss:0.08371866
+Epoch:354 Loss:0.08151717
+Epoch:355 Loss:0.08056320
+Epoch:356 Loss:0.08231215
+Epoch:357 Loss:0.08309612
+Epoch:358 Loss:0.08616835
+Epoch:359 Loss:0.08218383
+Epoch:360 Loss:0.08589596
+Epoch:361 Loss:0.08136605
+Epoch:362 Loss:0.08360803
+Epoch:363 Loss:0.08364238
+Epoch:364 Loss:0.08174696
+Epoch:365 Loss:0.08256877
+Epoch:366 Loss:0.08471680
+Epoch:367 Loss:0.08339691
+Epoch:368 Loss:0.08425233
+Epoch:369 Loss:0.08212170
+Epoch:370 Loss:0.07993729
+Epoch:371 Loss:0.08389847
+Epoch:372 Loss:0.08583339
+Epoch:373 Loss:0.08284864
+Epoch:374 Loss:0.08176989
+Epoch:375 Loss:0.08301085
+Epoch:376 Loss:0.08353829
+Epoch:377 Loss:0.08216709
+Epoch:378 Loss:0.08316752
+Epoch:379 Loss:0.08000093
+Epoch:380 Loss:0.08591361
+Epoch:381 Loss:0.07852803
+Epoch:382 Loss:0.07890548
+Epoch:383 Loss:0.08359630
+Epoch:384 Loss:0.07984060
+Epoch:385 Loss:0.08232925
+Epoch:386 Loss:0.08087772
+Epoch:387 Loss:0.07605098
+Epoch:388 Loss:0.08458870
+Epoch:389 Loss:0.08072172
+Epoch:390 Loss:0.08097604
+Epoch:391 Loss:0.08198229
+Epoch:392 Loss:0.08364675
+Epoch:393 Loss:0.08359918
+Epoch:394 Loss:0.08036179
+Epoch:395 Loss:0.07870119
+Epoch:396 Loss:0.08001492
+Epoch:397 Loss:0.08127605
+Epoch:398 Loss:0.08178004
+Epoch:399 Loss:0.08228718
+Loading 387th epoch
+Testing AUC!
+
+/home/syf/subgraph-contrast/utils.py:150: RuntimeWarning: divide by zero encountered in power
+  d_inv_sqrt = np.power(rowsum, -0.5).flatten()
+  0%|          | 0/256 [00:00<?, ?it/s]Testing:   0%|          | 0/256 [00:00<?, ?it/s]Testing:   0%|          | 1/256 [00:01<04:41,  1.10s/it]Testing:   1%|          | 2/256 [00:02<04:44,  1.12s/it]Testing:   1%|          | 3/256 [00:03<04:39,  1.11s/it]Testing:   2%|▏         | 4/256 [00:04<04:40,  1.11s/it]Testing:   2%|▏         | 5/256 [00:05<04:37,  1.11s/it]Testing:   2%|▏         | 6/256 [00:06<04:39,  1.12s/it]Testing:   3%|▎         | 7/256 [00:07<04:41,  1.13s/it]Testing:   3%|▎         | 8/256 [00:08<04:37,  1.12s/it]Testing:   4%|▎         | 9/256 [00:10<04:37,  1.12s/it]Testing:   4%|▍         | 10/256 [00:11<04:33,  1.11s/it]Testing:   4%|▍         | 11/256 [00:12<04:34,  1.12s/it]Testing:   5%|▍         | 12/256 [00:13<04:30,  1.11s/it]Testing:   5%|▌         | 13/256 [00:14<04:31,  1.12s/it]Testing:   5%|▌         | 14/256 [00:15<04:31,  1.12s/it]Testing:   6%|▌         | 15/256 [00:16<04:28,  1.12s/it]Testing:   6%|▋         | 16/256 [00:17<04:29,  1.12s/it]Testing:   7%|▋         | 17/256 [00:18<04:24,  1.11s/it]Testing:   7%|▋         | 18/256 [00:20<04:23,  1.11s/it]Testing:   7%|▋         | 19/256 [00:21<04:19,  1.09s/it]Testing:   8%|▊         | 20/256 [00:22<04:20,  1.10s/it]Testing:   8%|▊         | 21/256 [00:23<04:21,  1.11s/it]Testing:   9%|▊         | 22/256 [00:24<04:19,  1.11s/it]Testing:   9%|▉         | 23/256 [00:25<04:21,  1.12s/it]Testing:   9%|▉         | 24/256 [00:26<04:19,  1.12s/it]Testing:  10%|▉         | 25/256 [00:27<04:19,  1.12s/it]Testing:  10%|█         | 26/256 [00:28<04:16,  1.12s/it]Testing:  11%|█         | 27/256 [00:30<04:17,  1.13s/it]Testing:  11%|█         | 28/256 [00:31<04:17,  1.13s/it]Testing:  11%|█▏        | 29/256 [00:32<04:13,  1.12s/it]Testing:  12%|█▏        | 30/256 [00:33<04:12,  1.12s/it]Testing:  12%|█▏        | 31/256 [00:34<04:09,  1.11s/it]Testing:  12%|█▎        | 32/256 [00:35<04:08,  1.11s/it]Testing:  13%|█▎        | 33/256 [00:36<04:07,  1.11s/it]Testing:  13%|█▎        | 34/256 [00:37<04:08,  1.12s/it]Testing:  14%|█▎        | 35/256 [00:39<04:08,  1.13s/it]Testing:  14%|█▍        | 36/256 [00:40<04:05,  1.12s/it]Testing:  14%|█▍        | 37/256 [00:41<04:05,  1.12s/it]Testing:  15%|█▍        | 38/256 [00:42<04:03,  1.12s/it]Testing:  15%|█▌        | 39/256 [00:43<04:03,  1.12s/it]Testing:  16%|█▌        | 40/256 [00:44<04:00,  1.11s/it]Testing:  16%|█▌        | 41/256 [00:45<04:00,  1.12s/it]Testing:  16%|█▋        | 42/256 [00:46<04:00,  1.12s/it]Testing:  17%|█▋        | 43/256 [00:47<03:58,  1.12s/it]Testing:  17%|█▋        | 44/256 [00:49<03:57,  1.12s/it]Testing:  18%|█▊        | 45/256 [00:50<03:55,  1.11s/it]Testing:  18%|█▊        | 46/256 [00:51<03:54,  1.12s/it]Testing:  18%|█▊        | 47/256 [00:52<03:52,  1.11s/it]Testing:  19%|█▉        | 48/256 [00:53<03:52,  1.12s/it]Testing:  19%|█▉        | 49/256 [00:54<03:53,  1.13s/it]Testing:  20%|█▉        | 50/256 [00:55<03:50,  1.12s/it]Testing:  20%|█▉        | 51/256 [00:56<03:50,  1.12s/it]Testing:  20%|██        | 52/256 [00:58<03:46,  1.11s/it]Testing:  21%|██        | 53/256 [00:59<03:46,  1.12s/it]Testing:  21%|██        | 54/256 [01:00<03:43,  1.11s/it]Testing:  21%|██▏       | 55/256 [01:01<03:44,  1.12s/it]Testing:  22%|██▏       | 56/256 [01:02<03:44,  1.12s/it]Testing:  22%|██▏       | 57/256 [01:03<03:41,  1.11s/it]Testing:  23%|██▎       | 58/256 [01:04<03:42,  1.12s/it]Testing:  23%|██▎       | 59/256 [01:05<03:39,  1.11s/it]Testing:  23%|██▎       | 60/256 [01:07<03:40,  1.12s/it]Testing:  24%|██▍       | 61/256 [01:08<03:38,  1.12s/it]Testing:  24%|██▍       | 62/256 [01:09<03:37,  1.12s/it]Testing:  25%|██▍       | 63/256 [01:10<03:37,  1.13s/it]Testing:  25%|██▌       | 64/256 [01:11<03:34,  1.12s/it]Testing:  25%|██▌       | 65/256 [01:12<03:33,  1.12s/it]Testing:  26%|██▌       | 66/256 [01:13<03:31,  1.11s/it]Testing:  26%|██▌       | 67/256 [01:14<03:31,  1.12s/it]Testing:  27%|██▋       | 68/256 [01:15<03:28,  1.11s/it]Testing:  27%|██▋       | 69/256 [01:17<03:28,  1.12s/it]Testing:  27%|██▋       | 70/256 [01:18<03:29,  1.12s/it]Testing:  28%|██▊       | 71/256 [01:19<03:26,  1.11s/it]Testing:  28%|██▊       | 72/256 [01:20<03:25,  1.12s/it]Testing:  29%|██▊       | 73/256 [01:21<03:23,  1.11s/it]Testing:  29%|██▉       | 74/256 [01:22<03:23,  1.12s/it]Testing:  29%|██▉       | 75/256 [01:23<03:20,  1.11s/it]Testing:  30%|██▉       | 76/256 [01:24<03:20,  1.11s/it]Testing:  30%|███       | 77/256 [01:25<03:20,  1.12s/it]Testing:  30%|███       | 78/256 [01:27<03:17,  1.11s/it]Testing:  31%|███       | 79/256 [01:28<03:18,  1.12s/it]Testing:  31%|███▏      | 80/256 [01:29<03:15,  1.11s/it]Testing:  32%|███▏      | 81/256 [01:30<03:15,  1.12s/it]Testing:  32%|███▏      | 82/256 [01:31<03:13,  1.11s/it]Testing:  32%|███▏      | 83/256 [01:32<03:14,  1.12s/it]Testing:  33%|███▎      | 84/256 [01:33<03:14,  1.13s/it]Testing:  33%|███▎      | 85/256 [01:34<03:11,  1.12s/it]Testing:  34%|███▎      | 86/256 [01:36<03:11,  1.12s/it]Testing:  34%|███▍      | 87/256 [01:37<03:08,  1.12s/it]Testing:  34%|███▍      | 88/256 [01:38<03:08,  1.12s/it]Testing:  35%|███▍      | 89/256 [01:39<03:05,  1.11s/it]Testing:  35%|███▌      | 90/256 [01:40<03:05,  1.12s/it]Testing:  36%|███▌      | 91/256 [01:41<03:04,  1.12s/it]Testing:  36%|███▌      | 92/256 [01:42<03:02,  1.11s/it]Testing:  36%|███▋      | 93/256 [01:43<03:01,  1.12s/it]Testing:  37%|███▋      | 94/256 [01:44<02:59,  1.11s/it]Testing:  37%|███▋      | 95/256 [01:46<02:59,  1.12s/it]Testing:  38%|███▊      | 96/256 [01:47<02:57,  1.11s/it]Testing:  38%|███▊      | 97/256 [01:48<02:57,  1.11s/it]Testing:  38%|███▊      | 98/256 [01:49<02:56,  1.12s/it]Testing:  39%|███▊      | 99/256 [01:50<02:54,  1.11s/it]Testing:  39%|███▉      | 100/256 [01:51<02:54,  1.12s/it]Testing:  39%|███▉      | 101/256 [01:52<02:52,  1.11s/it]Testing:  40%|███▉      | 102/256 [01:53<02:52,  1.12s/it]Testing:  40%|████      | 103/256 [01:54<02:50,  1.11s/it]Testing:  41%|████      | 104/256 [01:56<02:49,  1.12s/it]Testing:  41%|████      | 105/256 [01:57<02:49,  1.12s/it]Testing:  41%|████▏     | 106/256 [01:58<02:47,  1.12s/it]Testing:  42%|████▏     | 107/256 [01:59<02:47,  1.12s/it]Testing:  42%|████▏     | 108/256 [02:00<02:44,  1.11s/it]Testing:  43%|████▎     | 109/256 [02:01<02:44,  1.12s/it]Testing:  43%|████▎     | 110/256 [02:02<02:42,  1.11s/it]Testing:  43%|████▎     | 111/256 [02:03<02:42,  1.12s/it]Testing:  44%|████▍     | 112/256 [02:05<02:41,  1.12s/it]Testing:  44%|████▍     | 113/256 [02:06<02:39,  1.11s/it]Testing:  45%|████▍     | 114/256 [02:07<02:38,  1.12s/it]Testing:  45%|████▍     | 115/256 [02:08<02:36,  1.11s/it]Testing:  45%|████▌     | 116/256 [02:09<02:37,  1.12s/it]Testing:  46%|████▌     | 117/256 [02:10<02:35,  1.12s/it]Testing:  46%|████▌     | 118/256 [02:11<02:34,  1.12s/it]Testing:  46%|████▋     | 119/256 [02:12<02:34,  1.13s/it]Testing:  47%|████▋     | 120/256 [02:14<02:32,  1.12s/it]Testing:  47%|████▋     | 121/256 [02:15<02:32,  1.13s/it]Testing:  48%|████▊     | 122/256 [02:16<02:29,  1.12s/it]Testing:  48%|████▊     | 123/256 [02:17<02:29,  1.12s/it]Testing:  48%|████▊     | 124/256 [02:18<02:26,  1.11s/it]Testing:  49%|████▉     | 125/256 [02:19<02:26,  1.12s/it]Testing:  49%|████▉     | 126/256 [02:20<02:25,  1.12s/it]Testing:  50%|████▉     | 127/256 [02:21<02:22,  1.10s/it]Testing:  50%|█████     | 128/256 [02:22<02:21,  1.11s/it]Testing:  50%|█████     | 129/256 [02:24<02:20,  1.11s/it]Testing:  51%|█████     | 130/256 [02:25<02:20,  1.12s/it]Testing:  51%|█████     | 131/256 [02:26<02:18,  1.11s/it]Testing:  52%|█████▏    | 132/256 [02:27<02:18,  1.11s/it]Testing:  52%|█████▏    | 133/256 [02:28<02:17,  1.11s/it]Testing:  52%|█████▏    | 134/256 [02:29<02:13,  1.10s/it]Testing:  53%|█████▎    | 135/256 [02:30<02:13,  1.10s/it]Testing:  53%|█████▎    | 136/256 [02:31<02:10,  1.09s/it]Testing:  54%|█████▎    | 137/256 [02:32<02:10,  1.09s/it]Testing:  54%|█████▍    | 138/256 [02:33<02:07,  1.08s/it]Testing:  54%|█████▍    | 139/256 [02:34<02:07,  1.09s/it]Testing:  55%|█████▍    | 140/256 [02:36<02:08,  1.11s/it]Testing:  55%|█████▌    | 141/256 [02:37<02:07,  1.11s/it]Testing:  55%|█████▌    | 142/256 [02:38<02:07,  1.12s/it]Testing:  56%|█████▌    | 143/256 [02:39<02:05,  1.11s/it]Testing:  56%|█████▋    | 144/256 [02:40<02:05,  1.12s/it]Testing:  57%|█████▋    | 145/256 [02:41<02:03,  1.11s/it]Testing:  57%|█████▋    | 146/256 [02:42<02:03,  1.12s/it]Testing:  57%|█████▋    | 147/256 [02:43<02:02,  1.13s/it]Testing:  58%|█████▊    | 148/256 [02:45<02:00,  1.12s/it]Testing:  58%|█████▊    | 149/256 [02:46<02:00,  1.13s/it]Testing:  59%|█████▊    | 150/256 [02:47<01:58,  1.12s/it]Testing:  59%|█████▉    | 151/256 [02:48<01:57,  1.12s/it]Testing:  59%|█████▉    | 152/256 [02:49<01:55,  1.11s/it]Testing:  60%|█████▉    | 153/256 [02:50<01:55,  1.12s/it]Testing:  60%|██████    | 154/256 [02:51<01:54,  1.12s/it]Testing:  61%|██████    | 155/256 [02:52<01:52,  1.12s/it]Testing:  61%|██████    | 156/256 [02:54<01:52,  1.12s/it]Testing:  61%|██████▏   | 157/256 [02:55<01:50,  1.11s/it]Testing:  62%|██████▏   | 158/256 [02:56<01:49,  1.12s/it]Testing:  62%|██████▏   | 159/256 [02:57<01:47,  1.11s/it]Testing:  62%|██████▎   | 160/256 [02:58<01:46,  1.11s/it]Testing:  63%|██████▎   | 161/256 [02:59<01:46,  1.12s/it]Testing:  63%|██████▎   | 162/256 [03:00<01:44,  1.11s/it]Testing:  64%|██████▎   | 163/256 [03:01<01:44,  1.12s/it]Testing:  64%|██████▍   | 164/256 [03:02<01:42,  1.11s/it]Testing:  64%|██████▍   | 165/256 [03:04<01:41,  1.12s/it]Testing:  65%|██████▍   | 166/256 [03:05<01:40,  1.11s/it]Testing:  65%|██████▌   | 167/256 [03:06<01:39,  1.12s/it]Testing:  66%|██████▌   | 168/256 [03:07<01:39,  1.13s/it]Testing:  66%|██████▌   | 169/256 [03:08<01:37,  1.12s/it]Testing:  66%|██████▋   | 170/256 [03:09<01:36,  1.12s/it]Testing:  67%|██████▋   | 171/256 [03:10<01:34,  1.11s/it]Testing:  67%|██████▋   | 172/256 [03:11<01:34,  1.12s/it]Testing:  68%|██████▊   | 173/256 [03:13<01:32,  1.12s/it]Testing:  68%|██████▊   | 174/256 [03:14<01:32,  1.12s/it]Testing:  68%|██████▊   | 175/256 [03:15<01:31,  1.13s/it]Testing:  69%|██████▉   | 176/256 [03:16<01:29,  1.12s/it]Testing:  69%|██████▉   | 177/256 [03:17<01:28,  1.12s/it]Testing:  70%|██████▉   | 178/256 [03:18<01:27,  1.12s/it]Testing:  70%|██████▉   | 179/256 [03:19<01:26,  1.12s/it]Testing:  70%|███████   | 180/256 [03:20<01:24,  1.11s/it]Testing:  71%|███████   | 181/256 [03:21<01:23,  1.12s/it]Testing:  71%|███████   | 182/256 [03:23<01:23,  1.13s/it]Testing:  71%|███████▏  | 183/256 [03:24<01:21,  1.12s/it]Testing:  72%|███████▏  | 184/256 [03:25<01:21,  1.13s/it]Testing:  72%|███████▏  | 185/256 [03:26<01:19,  1.12s/it]Testing:  73%|███████▎  | 186/256 [03:27<01:18,  1.13s/it]Testing:  73%|███████▎  | 187/256 [03:28<01:16,  1.12s/it]Testing:  73%|███████▎  | 188/256 [03:29<01:16,  1.12s/it]Testing:  74%|███████▍  | 189/256 [03:30<01:15,  1.12s/it]Testing:  74%|███████▍  | 190/256 [03:32<01:13,  1.12s/it]Testing:  75%|███████▍  | 191/256 [03:33<01:12,  1.12s/it]Testing:  75%|███████▌  | 192/256 [03:34<01:11,  1.11s/it]Testing:  75%|███████▌  | 193/256 [03:35<01:10,  1.12s/it]Testing:  76%|███████▌  | 194/256 [03:36<01:08,  1.11s/it]Testing:  76%|███████▌  | 195/256 [03:37<01:08,  1.12s/it]Testing:  77%|███████▋  | 196/256 [03:38<01:07,  1.12s/it]Testing:  77%|███████▋  | 197/256 [03:39<01:05,  1.11s/it]Testing:  77%|███████▋  | 198/256 [03:41<01:05,  1.12s/it]Testing:  78%|███████▊  | 199/256 [03:42<01:03,  1.11s/it]Testing:  78%|███████▊  | 200/256 [03:43<01:02,  1.12s/it]Testing:  79%|███████▊  | 201/256 [03:44<01:01,  1.11s/it]Testing:  79%|███████▉  | 202/256 [03:45<01:00,  1.12s/it]Testing:  79%|███████▉  | 203/256 [03:46<00:59,  1.12s/it]Testing:  80%|███████▉  | 204/256 [03:47<00:57,  1.11s/it]Testing:  80%|████████  | 205/256 [03:48<00:57,  1.12s/it]Testing:  80%|████████  | 206/256 [03:49<00:55,  1.11s/it]Testing:  81%|████████  | 207/256 [03:51<00:54,  1.11s/it]Testing:  81%|████████▏ | 208/256 [03:52<00:52,  1.10s/it]Testing:  82%|████████▏ | 209/256 [03:53<00:51,  1.10s/it]Testing:  82%|████████▏ | 210/256 [03:54<00:50,  1.10s/it]Testing:  82%|████████▏ | 211/256 [03:55<00:48,  1.09s/it]Testing:  83%|████████▎ | 212/256 [03:56<00:47,  1.09s/it]Testing:  83%|████████▎ | 213/256 [03:57<00:46,  1.09s/it]Testing:  84%|████████▎ | 214/256 [03:58<00:46,  1.10s/it]Testing:  84%|████████▍ | 215/256 [03:59<00:45,  1.10s/it]Testing:  84%|████████▍ | 216/256 [04:00<00:44,  1.11s/it]Testing:  85%|████████▍ | 217/256 [04:02<00:43,  1.12s/it]Testing:  85%|████████▌ | 218/256 [04:03<00:42,  1.12s/it]Testing:  86%|████████▌ | 219/256 [04:04<00:41,  1.12s/it]Testing:  86%|████████▌ | 220/256 [04:05<00:40,  1.11s/it]Testing:  86%|████████▋ | 221/256 [04:06<00:39,  1.12s/it]Testing:  87%|████████▋ | 222/256 [04:07<00:37,  1.11s/it]Testing:  87%|████████▋ | 223/256 [04:08<00:36,  1.12s/it]Testing:  88%|████████▊ | 224/256 [04:09<00:36,  1.13s/it]Testing:  88%|████████▊ | 225/256 [04:10<00:34,  1.12s/it]Testing:  88%|████████▊ | 226/256 [04:12<00:33,  1.13s/it]Testing:  89%|████████▊ | 227/256 [04:13<00:32,  1.12s/it]Testing:  89%|████████▉ | 228/256 [04:14<00:31,  1.12s/it]Testing:  89%|████████▉ | 229/256 [04:15<00:29,  1.10s/it]Testing:  90%|████████▉ | 230/256 [04:16<00:28,  1.10s/it]Testing:  90%|█████████ | 231/256 [04:17<00:27,  1.10s/it]Testing:  91%|█████████ | 232/256 [04:18<00:26,  1.09s/it]Testing:  91%|█████████ | 233/256 [04:19<00:25,  1.09s/it]Testing:  91%|█████████▏| 234/256 [04:20<00:23,  1.08s/it]Testing:  92%|█████████▏| 235/256 [04:21<00:22,  1.09s/it]Testing:  92%|█████████▏| 236/256 [04:23<00:21,  1.08s/it]Testing:  93%|█████████▎| 237/256 [04:24<00:20,  1.09s/it]Testing:  93%|█████████▎| 238/256 [04:25<00:19,  1.09s/it]Testing:  93%|█████████▎| 239/256 [04:26<00:18,  1.08s/it]Testing:  94%|█████████▍| 240/256 [04:27<00:17,  1.09s/it]Testing:  94%|█████████▍| 241/256 [04:28<00:16,  1.08s/it]Testing:  95%|█████████▍| 242/256 [04:29<00:15,  1.09s/it]Testing:  95%|█████████▍| 243/256 [04:30<00:14,  1.08s/it]Testing:  95%|█████████▌| 244/256 [04:31<00:13,  1.08s/it]Testing:  96%|█████████▌| 245/256 [04:32<00:12,  1.09s/it]Testing:  96%|█████████▌| 246/256 [04:33<00:10,  1.08s/it]Testing:  96%|█████████▋| 247/256 [04:34<00:09,  1.09s/it]Testing:  97%|█████████▋| 248/256 [04:36<00:08,  1.08s/it]Testing:  97%|█████████▋| 249/256 [04:37<00:07,  1.08s/it]Testing:  98%|█████████▊| 250/256 [04:38<00:06,  1.08s/it]Testing:  98%|█████████▊| 251/256 [04:39<00:05,  1.09s/it]Testing:  98%|█████████▊| 252/256 [04:40<00:04,  1.09s/it]Testing:  99%|█████████▉| 253/256 [04:41<00:03,  1.08s/it]Testing:  99%|█████████▉| 254/256 [04:42<00:02,  1.09s/it]Testing: 100%|█████████▉| 255/256 [04:43<00:01,  1.08s/it]Testing: 100%|██████████| 256/256 [04:44<00:00,  1.09s/it]Testing AUC:0.8838
+Testing: 100%|██████████| 256/256 [04:44<00:00,  1.11s/it]
+# Run:4 with random seed:5
+Epoch:0 Loss:0.20794319
+Epoch:1 Loss:0.20793688
+Epoch:2 Loss:0.20792225
+Epoch:3 Loss:0.20788168
+Epoch:4 Loss:0.20778745
+Epoch:5 Loss:0.20754337
+Epoch:6 Loss:0.20698414
+Epoch:7 Loss:0.20596825
+Epoch:8 Loss:0.20456498
+Epoch:9 Loss:0.20180449
+Epoch:10 Loss:0.19882202
+Epoch:11 Loss:0.19532516
+Epoch:12 Loss:0.19127354
+Epoch:13 Loss:0.18681338
+Epoch:14 Loss:0.18401273
+Epoch:15 Loss:0.18279328
+Epoch:16 Loss:0.18110644
+Epoch:17 Loss:0.17862372
+Epoch:18 Loss:0.17583798
+Epoch:19 Loss:0.17335356
+Epoch:20 Loss:0.17350252
+Epoch:21 Loss:0.17131278
+Epoch:22 Loss:0.17104757
+Epoch:23 Loss:0.16940871
+Epoch:24 Loss:0.17140836
+Epoch:25 Loss:0.16966411
+Epoch:26 Loss:0.16504550
+Epoch:27 Loss:0.16807358
+Epoch:28 Loss:0.16532538
+Epoch:29 Loss:0.16464851
+Epoch:30 Loss:0.16176227
+Epoch:31 Loss:0.16292789
+Epoch:32 Loss:0.16150583
+Epoch:33 Loss:0.16496666
+Epoch:34 Loss:0.16489626
+Epoch:35 Loss:0.16202851
+Epoch:36 Loss:0.16051035
+Epoch:37 Loss:0.15993323
+Epoch:38 Loss:0.16162628
+Epoch:39 Loss:0.15920815
+Epoch:40 Loss:0.16016107
+Epoch:41 Loss:0.15979941
+Epoch:42 Loss:0.15781958
+Epoch:43 Loss:0.15559229
+Epoch:44 Loss:0.15319854
+Epoch:45 Loss:0.15532945
+Epoch:46 Loss:0.15643453
+Epoch:47 Loss:0.15511571
+Epoch:48 Loss:0.15538286
+Epoch:49 Loss:0.15303639
+Epoch:50 Loss:0.15529154
+Epoch:51 Loss:0.15228863
+Epoch:52 Loss:0.15144471
+Epoch:53 Loss:0.14919334
+Epoch:54 Loss:0.14968133
+Epoch:55 Loss:0.14900996
+Epoch:56 Loss:0.15020077
+Epoch:57 Loss:0.14610747
+Epoch:58 Loss:0.14675263
+Epoch:59 Loss:0.14382778
+Epoch:60 Loss:0.14628182
+Epoch:61 Loss:0.14507740
+Epoch:62 Loss:0.14558084
+Epoch:63 Loss:0.14353807
+Epoch:64 Loss:0.13935597
+Epoch:65 Loss:0.14267860
+Epoch:66 Loss:0.14278166
+Epoch:67 Loss:0.14284466
+Epoch:68 Loss:0.13921209
+Epoch:69 Loss:0.14125219
+Epoch:70 Loss:0.14144715
+Epoch:71 Loss:0.13864089
+Epoch:72 Loss:0.13856944
+Epoch:73 Loss:0.13821712
+Epoch:74 Loss:0.13717302
+Epoch:75 Loss:0.13624122
+Epoch:76 Loss:0.13976177
+Epoch:77 Loss:0.13443418
+Epoch:78 Loss:0.13491245
+Epoch:79 Loss:0.13501180
+Epoch:80 Loss:0.13378334
+Epoch:81 Loss:0.13449325
+Epoch:82 Loss:0.13323833
+Epoch:83 Loss:0.13285157
+Epoch:84 Loss:0.13315334
+Epoch:85 Loss:0.13022400
+Epoch:86 Loss:0.12763747
+Epoch:87 Loss:0.13214782
+Epoch:88 Loss:0.12862073
+Epoch:89 Loss:0.13020247
+Epoch:90 Loss:0.12622465
+Epoch:91 Loss:0.12608694
+Epoch:92 Loss:0.12706119
+Epoch:93 Loss:0.12583031
+Epoch:94 Loss:0.12469474
+Epoch:95 Loss:0.12418113
+Epoch:96 Loss:0.12606695
+Epoch:97 Loss:0.12444129
+Epoch:98 Loss:0.12294660
+Epoch:99 Loss:0.12469724
+Epoch:100 Loss:0.12259613
+Epoch:101 Loss:0.12240506
+Epoch:102 Loss:0.12086279
+Epoch:103 Loss:0.12551149
+Epoch:104 Loss:0.12183869
+Epoch:105 Loss:0.12045406
+Epoch:106 Loss:0.12159211
+Epoch:107 Loss:0.12059547
+Epoch:108 Loss:0.11797083
+Epoch:109 Loss:0.12322704
+Epoch:110 Loss:0.12042578
+Epoch:111 Loss:0.11854175
+Epoch:112 Loss:0.11714733
+Epoch:113 Loss:0.11696428
+Epoch:114 Loss:0.11746979
+Epoch:115 Loss:0.11502908
+Epoch:116 Loss:0.11836814
+Epoch:117 Loss:0.11641997
+Epoch:118 Loss:0.11739431
+Epoch:119 Loss:0.11675640
+Epoch:120 Loss:0.11622579
+Epoch:121 Loss:0.11501440
+Epoch:122 Loss:0.11549793
+Epoch:123 Loss:0.11259894
+Epoch:124 Loss:0.11445268
+Epoch:125 Loss:0.11391707
+Epoch:126 Loss:0.11350497
+Epoch:127 Loss:0.11584911
+Epoch:128 Loss:0.11473648
+Epoch:129 Loss:0.11168385
+Epoch:130 Loss:0.10875958
+Epoch:131 Loss:0.11408913
+Epoch:132 Loss:0.11192481
+Epoch:133 Loss:0.10990113
+Epoch:134 Loss:0.11256060
+Epoch:135 Loss:0.11137072
+Epoch:136 Loss:0.11121246
+Epoch:137 Loss:0.11122841
+Epoch:138 Loss:0.11210993
+Epoch:139 Loss:0.11107434
+Epoch:140 Loss:0.10986863
+Epoch:141 Loss:0.10896272
+Epoch:142 Loss:0.10910283
+Epoch:143 Loss:0.10894842
+Epoch:144 Loss:0.10759118
+Epoch:145 Loss:0.10931640
+Epoch:146 Loss:0.11125308
+Epoch:147 Loss:0.11122680
+Epoch:148 Loss:0.10601233
+Epoch:149 Loss:0.10890069
+Epoch:150 Loss:0.10699386
+Epoch:151 Loss:0.10547555
+Epoch:152 Loss:0.10677206
+Epoch:153 Loss:0.10914203
+Epoch:154 Loss:0.10679434
+Epoch:155 Loss:0.10751137
+Epoch:156 Loss:0.10672272
+Epoch:157 Loss:0.10456771
+Epoch:158 Loss:0.10720855
+Epoch:159 Loss:0.10531365
+Epoch:160 Loss:0.10511548
+Epoch:161 Loss:0.10771992
+Epoch:162 Loss:0.10423464
+Epoch:163 Loss:0.10833199
+Epoch:164 Loss:0.10330716
+Epoch:165 Loss:0.10698092
+Epoch:166 Loss:0.10829736
+Epoch:167 Loss:0.10296095
+Epoch:168 Loss:0.10027996
+Epoch:169 Loss:0.10086657
+Epoch:170 Loss:0.10328219
+Epoch:171 Loss:0.10633442
+Epoch:172 Loss:0.10780323
+Epoch:173 Loss:0.10446488
+Epoch:174 Loss:0.10301268
+Epoch:175 Loss:0.10295326
+Epoch:176 Loss:0.10592639
+Epoch:177 Loss:0.10408785
+Epoch:178 Loss:0.10497305
+Epoch:179 Loss:0.10201852
+Epoch:180 Loss:0.10159856
+Epoch:181 Loss:0.10586143
+Epoch:182 Loss:0.09700820
+Epoch:183 Loss:0.10431519
+Epoch:184 Loss:0.10343625
+Epoch:185 Loss:0.10092210
+Epoch:186 Loss:0.10407459
+Epoch:187 Loss:0.10351769
+Epoch:188 Loss:0.09867008
+Epoch:189 Loss:0.10114266
+Epoch:190 Loss:0.09957223
+Epoch:191 Loss:0.10250686
+Epoch:192 Loss:0.10270588
+Epoch:193 Loss:0.10124640
+Epoch:194 Loss:0.09891273
+Epoch:195 Loss:0.10136179
+Epoch:196 Loss:0.10365096
+Epoch:197 Loss:0.10034609
+Epoch:198 Loss:0.09796134
+Epoch:199 Loss:0.10056304
+Epoch:200 Loss:0.09969156
+Epoch:201 Loss:0.10369431
+Epoch:202 Loss:0.09805090
+Epoch:203 Loss:0.10023787
+Epoch:204 Loss:0.09842935
+Epoch:205 Loss:0.09825670
+Epoch:206 Loss:0.09550338
+Epoch:207 Loss:0.09964110
+Epoch:208 Loss:0.09829687
+Epoch:209 Loss:0.09669818
+Epoch:210 Loss:0.09729148
+Epoch:211 Loss:0.09689054
+Epoch:212 Loss:0.10152156
+Epoch:213 Loss:0.09717448
+Epoch:214 Loss:0.09456049
+Epoch:215 Loss:0.09585876
+Epoch:216 Loss:0.09714767
+Epoch:217 Loss:0.09284324
+Epoch:218 Loss:0.09970739
+Epoch:219 Loss:0.09479747
+Epoch:220 Loss:0.09473030
+Epoch:221 Loss:0.09729633
+Epoch:222 Loss:0.09705274
+Epoch:223 Loss:0.09727234
+Epoch:224 Loss:0.09521616
+Epoch:225 Loss:0.09798537
+Epoch:226 Loss:0.09373164
+Epoch:227 Loss:0.09626071
+Epoch:228 Loss:0.09226641
+Epoch:229 Loss:0.09424157
+Epoch:230 Loss:0.09582632
+Epoch:231 Loss:0.09284634
+Epoch:232 Loss:0.09471103
+Epoch:233 Loss:0.09659457
+Epoch:234 Loss:0.09435873
+Epoch:235 Loss:0.09250678
+Epoch:236 Loss:0.09287675
+Epoch:237 Loss:0.09308423
+Epoch:238 Loss:0.09525698
+Epoch:239 Loss:0.09275877
+Epoch:240 Loss:0.09705152
+Epoch:241 Loss:0.09755799
+Epoch:242 Loss:0.09617614
+Epoch:243 Loss:0.09255879
+Epoch:244 Loss:0.09404380
+Epoch:245 Loss:0.09129253
+Epoch:246 Loss:0.09741119
+Epoch:247 Loss:0.09509933
+Epoch:248 Loss:0.09185958
+Epoch:249 Loss:0.09277877
+Epoch:250 Loss:0.09072691
+Epoch:251 Loss:0.09213636
+Epoch:252 Loss:0.09258041
+Epoch:253 Loss:0.09289256
+Epoch:254 Loss:0.09302216
+Epoch:255 Loss:0.09274960
+Epoch:256 Loss:0.09360019
+Epoch:257 Loss:0.09491573
+Epoch:258 Loss:0.09437374
+Epoch:259 Loss:0.09467135
+Epoch:260 Loss:0.09295034
+Epoch:261 Loss:0.09008485
+Epoch:262 Loss:0.09379875
+Epoch:263 Loss:0.09407778
+Epoch:264 Loss:0.09116908
+Epoch:265 Loss:0.08975401
+Epoch:266 Loss:0.09041856
+Epoch:267 Loss:0.09403445
+Epoch:268 Loss:0.08926876
+Epoch:269 Loss:0.08994323
+Epoch:270 Loss:0.09155674
+Epoch:271 Loss:0.09014654
+Epoch:272 Loss:0.09241574
+Epoch:273 Loss:0.08923191
+Epoch:274 Loss:0.09063811
+Epoch:275 Loss:0.08969454
+Epoch:276 Loss:0.08808753
+Epoch:277 Loss:0.09087455
+Epoch:278 Loss:0.09215492
+Epoch:279 Loss:0.09009619
+Epoch:280 Loss:0.08986148
+Epoch:281 Loss:0.08692009
+Epoch:282 Loss:0.08814640
+Epoch:283 Loss:0.08762076
+Epoch:284 Loss:0.08795400
+Epoch:285 Loss:0.09215405
+Epoch:286 Loss:0.09037866
+Epoch:287 Loss:0.08753719
+Epoch:288 Loss:0.08904461
+Epoch:289 Loss:0.09030285
+Epoch:290 Loss:0.08972913
+Epoch:291 Loss:0.09312241
+Epoch:292 Loss:0.08736540
+Epoch:293 Loss:0.09003414
+Epoch:294 Loss:0.08650437
+Epoch:295 Loss:0.08979646
+Epoch:296 Loss:0.08976451
+Epoch:297 Loss:0.08741188
+Epoch:298 Loss:0.08804798
+Epoch:299 Loss:0.08602758
+Epoch:300 Loss:0.08745948
+Epoch:301 Loss:0.08546483
+Epoch:302 Loss:0.08947786
+Epoch:303 Loss:0.08753538
+Epoch:304 Loss:0.08875192
+Epoch:305 Loss:0.08648093
+Epoch:306 Loss:0.09100104
+Epoch:307 Loss:0.08823851
+Epoch:308 Loss:0.08620969
+Epoch:309 Loss:0.08975250
+Epoch:310 Loss:0.08765505
+Epoch:311 Loss:0.09047496
+Epoch:312 Loss:0.08597757
+Epoch:313 Loss:0.08628187
+Epoch:314 Loss:0.08365574
+Epoch:315 Loss:0.08536036
+Epoch:316 Loss:0.08856029
+Epoch:317 Loss:0.08443126
+Epoch:318 Loss:0.08869235
+Epoch:319 Loss:0.08897918
+Epoch:320 Loss:0.09121526
+Epoch:321 Loss:0.08880056
+Epoch:322 Loss:0.08474376
+Epoch:323 Loss:0.08483706
+Epoch:324 Loss:0.08826397
+Epoch:325 Loss:0.08787808
+Epoch:326 Loss:0.08584872
+Epoch:327 Loss:0.08775915
+Epoch:328 Loss:0.08562618
+Epoch:329 Loss:0.08537188
+Epoch:330 Loss:0.08296615
+Epoch:331 Loss:0.08335282
+Epoch:332 Loss:0.08292841
+Epoch:333 Loss:0.08715598
+Epoch:334 Loss:0.08403561
+Epoch:335 Loss:0.08478879
+Epoch:336 Loss:0.08355514
+Epoch:337 Loss:0.08304529
+Epoch:338 Loss:0.08595530
+Epoch:339 Loss:0.08235373
+Epoch:340 Loss:0.08748040
+Epoch:341 Loss:0.08544295
+Epoch:342 Loss:0.08784093
+Epoch:343 Loss:0.08578126
+Epoch:344 Loss:0.08597284
+Epoch:345 Loss:0.08421698
+Epoch:346 Loss:0.08672476
+Epoch:347 Loss:0.08635832
+Epoch:348 Loss:0.08378452
+Epoch:349 Loss:0.08532925
+Epoch:350 Loss:0.08395940
+Epoch:351 Loss:0.08238633
+Epoch:352 Loss:0.08449676
+Epoch:353 Loss:0.08164114
+Epoch:354 Loss:0.08672331
+Epoch:355 Loss:0.08347199
+Epoch:356 Loss:0.08110437
+Epoch:357 Loss:0.08632101
+Epoch:358 Loss:0.08724606
+Epoch:359 Loss:0.08327042
+Epoch:360 Loss:0.08419575
+Epoch:361 Loss:0.08128139
+Epoch:362 Loss:0.08233912
+Epoch:363 Loss:0.08197079
+Epoch:364 Loss:0.08615092
+Epoch:365 Loss:0.08362185
+Epoch:366 Loss:0.08608577
+Epoch:367 Loss:0.08201678
+Epoch:368 Loss:0.08357752
+Epoch:369 Loss:0.08379675
+Epoch:370 Loss:0.08372549
+Epoch:371 Loss:0.08212709
+Epoch:372 Loss:0.08273341
+Epoch:373 Loss:0.08502355
+Epoch:374 Loss:0.08559667
+Epoch:375 Loss:0.08505073
+Epoch:376 Loss:0.08635032
+Epoch:377 Loss:0.08064718
+Epoch:378 Loss:0.08071255
+Epoch:379 Loss:0.08340101
+Epoch:380 Loss:0.08609878
+Epoch:381 Loss:0.08398117
+Epoch:382 Loss:0.08329814
+Epoch:383 Loss:0.08500269
+Epoch:384 Loss:0.08474403
+Epoch:385 Loss:0.08467062
+Epoch:386 Loss:0.08552317
+Epoch:387 Loss:0.08480869
+Epoch:388 Loss:0.08088077
+Epoch:389 Loss:0.08428518
+Epoch:390 Loss:0.08263017
+Epoch:391 Loss:0.08088760
+Epoch:392 Loss:0.08185900
+Epoch:393 Loss:0.08113999
+Epoch:394 Loss:0.08109407
+Epoch:395 Loss:0.08493375
+Epoch:396 Loss:0.08220355
+Epoch:397 Loss:0.08703026
+Epoch:398 Loss:0.08245926
+Epoch:399 Loss:0.08381216
+Loading 377th epoch
+Testing AUC!
+
+/home/syf/subgraph-contrast/utils.py:150: RuntimeWarning: divide by zero encountered in power
+  d_inv_sqrt = np.power(rowsum, -0.5).flatten()
+  0%|          | 0/256 [00:00<?, ?it/s]Testing:   0%|          | 0/256 [00:00<?, ?it/s]Testing:   0%|          | 1/256 [00:01<04:42,  1.11s/it]Testing:   1%|          | 2/256 [00:02<04:44,  1.12s/it]Testing:   1%|          | 3/256 [00:03<04:40,  1.11s/it]Testing:   2%|▏         | 4/256 [00:04<04:42,  1.12s/it]Testing:   2%|▏         | 5/256 [00:05<04:41,  1.12s/it]Testing:   2%|▏         | 6/256 [00:06<04:39,  1.12s/it]Testing:   3%|▎         | 7/256 [00:07<04:39,  1.12s/it]Testing:   3%|▎         | 8/256 [00:08<04:37,  1.12s/it]Testing:   4%|▎         | 9/256 [00:10<04:37,  1.12s/it]Testing:   4%|▍         | 10/256 [00:11<04:34,  1.12s/it]Testing:   4%|▍         | 11/256 [00:12<04:36,  1.13s/it]Testing:   5%|▍         | 12/256 [00:13<04:35,  1.13s/it]Testing:   5%|▌         | 13/256 [00:14<04:32,  1.12s/it]Testing:   5%|▌         | 14/256 [00:15<04:33,  1.13s/it]Testing:   6%|▌         | 15/256 [00:16<04:30,  1.12s/it]Testing:   6%|▋         | 16/256 [00:17<04:29,  1.12s/it]Testing:   7%|▋         | 17/256 [00:19<04:26,  1.11s/it]Testing:   7%|▋         | 18/256 [00:20<04:26,  1.12s/it]Testing:   7%|▋         | 19/256 [00:21<04:25,  1.12s/it]Testing:   8%|▊         | 20/256 [00:22<04:22,  1.11s/it]Testing:   8%|▊         | 21/256 [00:23<04:23,  1.12s/it]Testing:   9%|▊         | 22/256 [00:24<04:20,  1.11s/it]Testing:   9%|▉         | 23/256 [00:25<04:21,  1.12s/it]Testing:   9%|▉         | 24/256 [00:26<04:18,  1.11s/it]Testing:  10%|▉         | 25/256 [00:27<04:18,  1.12s/it]Testing:  10%|█         | 26/256 [00:29<04:17,  1.12s/it]Testing:  11%|█         | 27/256 [00:30<04:14,  1.11s/it]Testing:  11%|█         | 28/256 [00:31<04:15,  1.12s/it]Testing:  11%|█▏        | 29/256 [00:32<04:12,  1.11s/it]Testing:  12%|█▏        | 30/256 [00:33<04:11,  1.11s/it]Testing:  12%|█▏        | 31/256 [00:34<04:09,  1.11s/it]Testing:  12%|█▎        | 32/256 [00:35<04:09,  1.12s/it]Testing:  13%|█▎        | 33/256 [00:36<04:10,  1.12s/it]Testing:  13%|█▎        | 34/256 [00:38<04:07,  1.11s/it]Testing:  14%|█▎        | 35/256 [00:39<04:08,  1.12s/it]Testing:  14%|█▍        | 36/256 [00:40<04:05,  1.12s/it]Testing:  14%|█▍        | 37/256 [00:41<04:05,  1.12s/it]Testing:  15%|█▍        | 38/256 [00:42<04:02,  1.11s/it]Testing:  15%|█▌        | 39/256 [00:43<04:02,  1.12s/it]Testing:  16%|█▌        | 40/256 [00:44<04:01,  1.12s/it]Testing:  16%|█▌        | 41/256 [00:45<03:59,  1.11s/it]Testing:  16%|█▋        | 42/256 [00:46<04:00,  1.12s/it]Testing:  17%|█▋        | 43/256 [00:48<03:58,  1.12s/it]Testing:  17%|█▋        | 44/256 [00:49<03:58,  1.12s/it]Testing:  18%|█▊        | 45/256 [00:50<03:55,  1.12s/it]Testing:  18%|█▊        | 46/256 [00:51<03:55,  1.12s/it]Testing:  18%|█▊        | 47/256 [00:52<03:56,  1.13s/it]Testing:  19%|█▉        | 48/256 [00:53<03:54,  1.13s/it]Testing:  19%|█▉        | 49/256 [00:54<03:53,  1.13s/it]Testing:  20%|█▉        | 50/256 [00:55<03:50,  1.12s/it]Testing:  20%|█▉        | 51/256 [00:57<03:51,  1.13s/it]Testing:  20%|██        | 52/256 [00:58<03:47,  1.11s/it]Testing:  21%|██        | 53/256 [00:59<03:47,  1.12s/it]Testing:  21%|██        | 54/256 [01:00<03:46,  1.12s/it]Testing:  21%|██▏       | 55/256 [01:01<03:44,  1.12s/it]Testing:  22%|██▏       | 56/256 [01:02<03:42,  1.11s/it]Testing:  22%|██▏       | 57/256 [01:03<03:40,  1.11s/it]Testing:  23%|██▎       | 58/256 [01:04<03:41,  1.12s/it]Testing:  23%|██▎       | 59/256 [01:05<03:39,  1.11s/it]Testing:  23%|██▎       | 60/256 [01:07<03:38,  1.12s/it]Testing:  24%|██▍       | 61/256 [01:08<03:38,  1.12s/it]Testing:  24%|██▍       | 62/256 [01:09<03:36,  1.11s/it]Testing:  25%|██▍       | 63/256 [01:10<03:35,  1.12s/it]Testing:  25%|██▌       | 64/256 [01:11<03:33,  1.11s/it]Testing:  25%|██▌       | 65/256 [01:12<03:33,  1.12s/it]Testing:  26%|██▌       | 66/256 [01:13<03:31,  1.11s/it]Testing:  26%|██▌       | 67/256 [01:14<03:31,  1.12s/it]Testing:  27%|██▋       | 68/256 [01:16<03:30,  1.12s/it]Testing:  27%|██▋       | 69/256 [01:17<03:28,  1.11s/it]Testing:  27%|██▋       | 70/256 [01:18<03:28,  1.12s/it]Testing:  28%|██▊       | 71/256 [01:19<03:25,  1.11s/it]Testing:  28%|██▊       | 72/256 [01:20<03:25,  1.12s/it]Testing:  29%|██▊       | 73/256 [01:21<03:21,  1.10s/it]Testing:  29%|██▉       | 74/256 [01:22<03:20,  1.10s/it]Testing:  29%|██▉       | 75/256 [01:23<03:19,  1.10s/it]Testing:  30%|██▉       | 76/256 [01:24<03:17,  1.10s/it]Testing:  30%|███       | 77/256 [01:26<03:18,  1.11s/it]Testing:  30%|███       | 78/256 [01:27<03:17,  1.11s/it]Testing:  31%|███       | 79/256 [01:28<03:19,  1.13s/it]Testing:  31%|███▏      | 80/256 [01:29<03:17,  1.12s/it]Testing:  32%|███▏      | 81/256 [01:30<03:16,  1.12s/it]Testing:  32%|███▏      | 82/256 [01:31<03:16,  1.13s/it]Testing:  32%|███▏      | 83/256 [01:32<03:13,  1.12s/it]Testing:  33%|███▎      | 84/256 [01:33<03:13,  1.12s/it]Testing:  33%|███▎      | 85/256 [01:35<03:10,  1.12s/it]Testing:  34%|███▎      | 86/256 [01:36<03:10,  1.12s/it]Testing:  34%|███▍      | 87/256 [01:37<03:08,  1.12s/it]Testing:  34%|███▍      | 88/256 [01:38<03:08,  1.12s/it]Testing:  35%|███▍      | 89/256 [01:39<03:07,  1.12s/it]Testing:  35%|███▌      | 90/256 [01:40<03:05,  1.11s/it]Testing:  36%|███▌      | 91/256 [01:41<03:05,  1.12s/it]Testing:  36%|███▌      | 92/256 [01:42<03:02,  1.11s/it]Testing:  36%|███▋      | 93/256 [01:43<03:02,  1.12s/it]Testing:  37%|███▋      | 94/256 [01:45<03:00,  1.11s/it]Testing:  37%|███▋      | 95/256 [01:46<02:59,  1.12s/it]Testing:  38%|███▊      | 96/256 [01:47<02:59,  1.12s/it]Testing:  38%|███▊      | 97/256 [01:48<02:56,  1.11s/it]Testing:  38%|███▊      | 98/256 [01:49<02:56,  1.12s/it]Testing:  39%|███▊      | 99/256 [01:50<02:54,  1.11s/it]Testing:  39%|███▉      | 100/256 [01:51<02:54,  1.12s/it]Testing:  39%|███▉      | 101/256 [01:52<02:52,  1.11s/it]Testing:  40%|███▉      | 102/256 [01:53<02:52,  1.12s/it]Testing:  40%|████      | 103/256 [01:55<02:51,  1.12s/it]Testing:  41%|████      | 104/256 [01:56<02:47,  1.10s/it]Testing:  41%|████      | 105/256 [01:57<02:48,  1.11s/it]Testing:  41%|████▏     | 106/256 [01:58<02:46,  1.11s/it]Testing:  42%|████▏     | 107/256 [01:59<02:46,  1.12s/it]Testing:  42%|████▏     | 108/256 [02:00<02:44,  1.11s/it]Testing:  43%|████▎     | 109/256 [02:01<02:44,  1.12s/it]Testing:  43%|████▎     | 110/256 [02:02<02:45,  1.13s/it]Testing:  43%|████▎     | 111/256 [02:04<02:42,  1.12s/it]Testing:  44%|████▍     | 112/256 [02:05<02:42,  1.13s/it]Testing:  44%|████▍     | 113/256 [02:06<02:40,  1.12s/it]Testing:  45%|████▍     | 114/256 [02:07<02:39,  1.12s/it]Testing:  45%|████▍     | 115/256 [02:08<02:37,  1.12s/it]Testing:  45%|████▌     | 116/256 [02:09<02:37,  1.12s/it]Testing:  46%|████▌     | 117/256 [02:10<02:36,  1.12s/it]Testing:  46%|████▌     | 118/256 [02:11<02:33,  1.12s/it]Testing:  46%|████▋     | 119/256 [02:13<02:34,  1.12s/it]Testing:  47%|████▋     | 120/256 [02:14<02:32,  1.12s/it]Testing:  47%|████▋     | 121/256 [02:15<02:31,  1.12s/it]Testing:  48%|████▊     | 122/256 [02:16<02:29,  1.12s/it]Testing:  48%|████▊     | 123/256 [02:17<02:29,  1.12s/it]Testing:  48%|████▊     | 124/256 [02:18<02:28,  1.12s/it]Testing:  49%|████▉     | 125/256 [02:19<02:26,  1.12s/it]Testing:  49%|████▉     | 126/256 [02:20<02:26,  1.12s/it]Testing:  50%|████▉     | 127/256 [02:21<02:23,  1.11s/it]Testing:  50%|█████     | 128/256 [02:23<02:21,  1.11s/it]Testing:  50%|█████     | 129/256 [02:24<02:19,  1.10s/it]Testing:  51%|█████     | 130/256 [02:25<02:18,  1.10s/it]Testing:  51%|█████     | 131/256 [02:26<02:17,  1.10s/it]Testing:  52%|█████▏    | 132/256 [02:27<02:15,  1.09s/it]Testing:  52%|█████▏    | 133/256 [02:28<02:16,  1.11s/it]Testing:  52%|█████▏    | 134/256 [02:29<02:14,  1.10s/it]Testing:  53%|█████▎    | 135/256 [02:30<02:14,  1.11s/it]Testing:  53%|█████▎    | 136/256 [02:31<02:12,  1.11s/it]Testing:  54%|█████▎    | 137/256 [02:33<02:12,  1.11s/it]Testing:  54%|█████▍    | 138/256 [02:34<02:12,  1.12s/it]Testing:  54%|█████▍    | 139/256 [02:35<02:10,  1.11s/it]Testing:  55%|█████▍    | 140/256 [02:36<02:10,  1.12s/it]Testing:  55%|█████▌    | 141/256 [02:37<02:08,  1.12s/it]Testing:  55%|█████▌    | 142/256 [02:38<02:07,  1.12s/it]Testing:  56%|█████▌    | 143/256 [02:39<02:06,  1.12s/it]Testing:  56%|█████▋    | 144/256 [02:40<02:05,  1.12s/it]Testing:  57%|█████▋    | 145/256 [02:41<02:04,  1.12s/it]Testing:  57%|█████▋    | 146/256 [02:43<02:02,  1.12s/it]Testing:  57%|█████▋    | 147/256 [02:44<02:03,  1.13s/it]Testing:  58%|█████▊    | 148/256 [02:45<02:00,  1.12s/it]Testing:  58%|█████▊    | 149/256 [02:46<02:00,  1.12s/it]Testing:  59%|█████▊    | 150/256 [02:47<01:58,  1.11s/it]Testing:  59%|█████▉    | 151/256 [02:48<01:58,  1.12s/it]Testing:  59%|█████▉    | 152/256 [02:49<01:57,  1.13s/it]Testing:  60%|█████▉    | 153/256 [02:50<01:55,  1.12s/it]Testing:  60%|██████    | 154/256 [02:52<01:54,  1.13s/it]Testing:  61%|██████    | 155/256 [02:53<01:53,  1.12s/it]Testing:  61%|██████    | 156/256 [02:54<01:52,  1.12s/it]Testing:  61%|██████▏   | 157/256 [02:55<01:50,  1.11s/it]Testing:  62%|██████▏   | 158/256 [02:56<01:49,  1.12s/it]Testing:  62%|██████▏   | 159/256 [02:57<01:48,  1.12s/it]Testing:  62%|██████▎   | 160/256 [02:58<01:47,  1.12s/it]Testing:  63%|██████▎   | 161/256 [02:59<01:47,  1.13s/it]Testing:  63%|██████▎   | 162/256 [03:01<01:45,  1.12s/it]Testing:  64%|██████▎   | 163/256 [03:02<01:44,  1.12s/it]Testing:  64%|██████▍   | 164/256 [03:03<01:42,  1.11s/it]Testing:  64%|██████▍   | 165/256 [03:04<01:41,  1.12s/it]Testing:  65%|██████▍   | 166/256 [03:05<01:40,  1.12s/it]Testing:  65%|██████▌   | 167/256 [03:06<01:39,  1.11s/it]Testing:  66%|██████▌   | 168/256 [03:07<01:38,  1.12s/it]Testing:  66%|██████▌   | 169/256 [03:08<01:37,  1.12s/it]Testing:  66%|██████▋   | 170/256 [03:10<01:36,  1.12s/it]Testing:  67%|██████▋   | 171/256 [03:11<01:34,  1.12s/it]Testing:  67%|██████▋   | 172/256 [03:12<01:34,  1.12s/it]Testing:  68%|██████▊   | 173/256 [03:13<01:32,  1.12s/it]Testing:  68%|██████▊   | 174/256 [03:14<01:31,  1.11s/it]Testing:  68%|██████▊   | 175/256 [03:15<01:31,  1.13s/it]Testing:  69%|██████▉   | 176/256 [03:16<01:29,  1.12s/it]Testing:  69%|██████▉   | 177/256 [03:17<01:29,  1.13s/it]Testing:  70%|██████▉   | 178/256 [03:18<01:27,  1.12s/it]Testing:  70%|██████▉   | 179/256 [03:20<01:27,  1.13s/it]Testing:  70%|███████   | 180/256 [03:21<01:26,  1.14s/it]Testing:  71%|███████   | 181/256 [03:22<01:25,  1.14s/it]Testing:  71%|███████   | 182/256 [03:23<01:24,  1.15s/it]Testing:  71%|███████▏  | 183/256 [03:24<01:23,  1.14s/it]Testing:  72%|███████▏  | 184/256 [03:25<01:22,  1.14s/it]Testing:  72%|███████▏  | 185/256 [03:26<01:20,  1.13s/it]Testing:  73%|███████▎  | 186/256 [03:28<01:19,  1.14s/it]Testing:  73%|███████▎  | 187/256 [03:29<01:18,  1.14s/it]Testing:  73%|███████▎  | 188/256 [03:30<01:17,  1.14s/it]Testing:  74%|███████▍  | 189/256 [03:31<01:16,  1.15s/it]Testing:  74%|███████▍  | 190/256 [03:32<01:14,  1.13s/it]Testing:  75%|███████▍  | 191/256 [03:33<01:14,  1.14s/it]Testing:  75%|███████▌  | 192/256 [03:34<01:12,  1.13s/it]Testing:  75%|███████▌  | 193/256 [03:36<01:11,  1.14s/it]Testing:  76%|███████▌  | 194/256 [03:37<01:10,  1.14s/it]Testing:  76%|███████▌  | 195/256 [03:38<01:09,  1.13s/it]Testing:  77%|███████▋  | 196/256 [03:39<01:08,  1.14s/it]Testing:  77%|███████▋  | 197/256 [03:40<01:06,  1.13s/it]Testing:  77%|███████▋  | 198/256 [03:41<01:05,  1.13s/it]Testing:  78%|███████▊  | 199/256 [03:42<01:04,  1.12s/it]Testing:  78%|███████▊  | 200/256 [03:44<01:03,  1.13s/it]Testing:  79%|███████▊  | 201/256 [03:45<01:02,  1.14s/it]Testing:  79%|███████▉  | 202/256 [03:46<01:01,  1.14s/it]Testing:  79%|███████▉  | 203/256 [03:47<01:00,  1.15s/it]Testing:  80%|███████▉  | 204/256 [03:48<00:59,  1.14s/it]Testing:  80%|████████  | 205/256 [03:49<00:58,  1.14s/it]Testing:  80%|████████  | 206/256 [03:50<00:56,  1.14s/it]Testing:  81%|████████  | 207/256 [03:51<00:55,  1.14s/it]Testing:  81%|████████▏ | 208/256 [03:53<00:54,  1.14s/it]Testing:  82%|████████▏ | 209/256 [03:54<00:53,  1.13s/it]Testing:  82%|████████▏ | 210/256 [03:55<00:52,  1.14s/it]Testing:  82%|████████▏ | 211/256 [03:56<00:50,  1.13s/it]Testing:  83%|████████▎ | 212/256 [03:57<00:49,  1.14s/it]Testing:  83%|████████▎ | 213/256 [03:58<00:48,  1.13s/it]Testing:  84%|████████▎ | 214/256 [03:59<00:48,  1.15s/it]Testing:  84%|████████▍ | 215/256 [04:01<00:46,  1.14s/it]Testing:  84%|████████▍ | 216/256 [04:02<00:45,  1.14s/it]Testing:  85%|████████▍ | 217/256 [04:03<00:44,  1.15s/it]Testing:  85%|████████▌ | 218/256 [04:04<00:42,  1.13s/it]Testing:  86%|████████▌ | 219/256 [04:05<00:41,  1.13s/it]Testing:  86%|████████▌ | 220/256 [04:06<00:40,  1.12s/it]Testing:  86%|████████▋ | 221/256 [04:07<00:39,  1.13s/it]Testing:  87%|████████▋ | 222/256 [04:08<00:38,  1.13s/it]Testing:  87%|████████▋ | 223/256 [04:10<00:36,  1.12s/it]Testing:  88%|████████▊ | 224/256 [04:11<00:35,  1.12s/it]Testing:  88%|████████▊ | 225/256 [04:12<00:34,  1.11s/it]Testing:  88%|████████▊ | 226/256 [04:13<00:33,  1.11s/it]Testing:  89%|████████▊ | 227/256 [04:14<00:32,  1.11s/it]Testing:  89%|████████▉ | 228/256 [04:15<00:31,  1.11s/it]Testing:  89%|████████▉ | 229/256 [04:16<00:29,  1.11s/it]Testing:  90%|████████▉ | 230/256 [04:17<00:28,  1.11s/it]Testing:  90%|█████████ | 231/256 [04:18<00:27,  1.12s/it]Testing:  91%|█████████ | 232/256 [04:20<00:26,  1.11s/it]Testing:  91%|█████████ | 233/256 [04:21<00:25,  1.12s/it]Testing:  91%|█████████▏| 234/256 [04:22<00:24,  1.11s/it]Testing:  92%|█████████▏| 235/256 [04:23<00:23,  1.12s/it]Testing:  92%|█████████▏| 236/256 [04:24<00:22,  1.12s/it]Testing:  93%|█████████▎| 237/256 [04:25<00:21,  1.11s/it]Testing:  93%|█████████▎| 238/256 [04:26<00:20,  1.12s/it]Testing:  93%|█████████▎| 239/256 [04:27<00:18,  1.11s/it]Testing:  94%|█████████▍| 240/256 [04:29<00:17,  1.12s/it]Testing:  94%|█████████▍| 241/256 [04:30<00:16,  1.12s/it]Testing:  95%|█████████▍| 242/256 [04:31<00:15,  1.12s/it]Testing:  95%|█████████▍| 243/256 [04:32<00:14,  1.11s/it]Testing:  95%|█████████▌| 244/256 [04:33<00:13,  1.11s/it]Testing:  96%|█████████▌| 245/256 [04:34<00:12,  1.12s/it]Testing:  96%|█████████▌| 246/256 [04:35<00:11,  1.11s/it]Testing:  96%|█████████▋| 247/256 [04:36<00:10,  1.12s/it]Testing:  97%|█████████▋| 248/256 [04:37<00:08,  1.11s/it]Testing:  97%|█████████▋| 249/256 [04:39<00:07,  1.13s/it]Testing:  98%|█████████▊| 250/256 [04:40<00:06,  1.13s/it]Testing:  98%|█████████▊| 251/256 [04:41<00:05,  1.12s/it]Testing:  98%|█████████▊| 252/256 [04:42<00:04,  1.13s/it]Testing:  99%|█████████▉| 253/256 [04:43<00:03,  1.12s/it]Testing:  99%|█████████▉| 254/256 [04:44<00:02,  1.13s/it]Testing: 100%|█████████▉| 255/256 [04:45<00:01,  1.12s/it]Testing: 100%|██████████| 256/256 [04:46<00:00,  1.12s/it]Testing AUC:0.8838
+Testing: 100%|██████████| 256/256 [04:46<00:00,  1.12s/it]
+
+==============================
+[0.8837529319781079]
+FINAL TESTING AUC:0.8838
+==============================
